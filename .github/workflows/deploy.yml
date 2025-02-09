@@ -18,7 +18,7 @@ jobs:
           key: ${{ secrets.VPS_PRIVATE_KEY }} # Your private key (store as secret)
           script: |
             cd /var/www/grifeng
-            git config pull.rebase true
+            git config pull.rebase false
             git pull origin main
             sudo npm install
             sudo pm2 restart grifeng
