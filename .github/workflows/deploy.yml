@@ -13,12 +13,15 @@ jobs:
       - name: Deploy to VPS
         uses: appleboy/ssh-action@v1.2.0
         with:
-          host: ${{ secrets.VPS_HOST }} # Your VPS IP address or domain
-          username: deploy # Your deploy user
-          key: ${{ secrets.VPS_PRIVATE_KEY }} # Your private key (store as secret)
+          host: ${{ secrets.VPS_HOST }}
+          username: deploy
+          key: ${{ secrets.VPS_PRIVATE_KEY }}
           script: |
             cd /var/www/grifeng
             git config pull.rebase false
+            echo "Pulling website from Github"
             git pull origin main
+            echo "Installing required dependencies"
             sudo npm install
+            echo "Restarting server.js"
             sudo pm2 restart grifeng
