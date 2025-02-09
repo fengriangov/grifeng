@@ -18,6 +18,6 @@ jobs:
           key: ${{ secrets.VPS_PRIVATE_KEY }} # Your private key (store as secret)
           script: |
             cd /var/www/grifeng
-            git pull -u origin main
+            git pull origin main
             sudo npm install
             sudo pm2 restart grifeng
