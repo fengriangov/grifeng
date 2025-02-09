@@ -24,4 +24,4 @@ jobs:
             echo "Installing required dependencies"
             sudo npm install
             echo "Restarting server.js"
-            sudo pm2 restart grifeng
+            pm2 restart grifeng
