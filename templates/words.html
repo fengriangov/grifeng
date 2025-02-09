@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grifeng</title>
+    <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+    <h1>grifeng words</h1>
+    <hr>
+    <button><a href="/">Home</a></button>
+    <button><a href="/words">Words</a></button>
+    <button><a href="/suffixes">Suffixes</a></button>
+    <!-- <form id="searchForm" style="float: right;">
+        <input type="text" name="search" placeholder="Search...">
+        <button type="submit">Search</button>
+    </form> -->
+    <hr>
+    <ul id="hyperlinks">
+        {{#each groupedWords}}
+            <li><a href="#{{@key}}">{{@key}}</a></li>
+        {{/each}}
+    </ul>
+    <br>
+    {{#each groupedWords}}
+        <h3 id="{{@key}}">{{@key}}</h3>
+        <ul>
+        {{#each this}}
+            <li><a href="/words/{{this.word}}">{{this.translation}}</a></li>
+        {{/each}}
+        </ul>
+    {{/each}}
+</body>
+</html>

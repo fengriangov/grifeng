@@ -1,0 +1,23 @@
+name: Deploy to VPS
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Deploy to VPS
+        uses: appleboy/ssh-action@v1.2.0
+        with:
+          host: ${{ secrets.VPS_HOST }} # Your VPS IP address or domain
+          username: deploy # Your deploy user
+          key: ${{ secrets.VPS_PRIVATE_KEY }} # Your private key (store as secret)
+          script: |
+            cd /var/www/grifeng
+            git pull origin main
+            sudo npm install
+            sudo pm2 restart grifeng

@@ -1,0 +1,38 @@
+[
+    {
+        "suffix": "-at",
+        "description": "Shows that the word is possessive",
+        "grifengEx": "clof - clofat",
+        "englishEx": "dog - dog's"
+    },
+    {
+        "suffix": "-et",
+        "description": "Shows that the word is plural",
+        "grifengEx": "clof - clofet",
+        "englishEx": "dog - dogs"
+    },
+    {
+        "suffix": "-it",
+        "description": "Shows that the word is future tense",
+        "grifengEx": "kajül - kajülit",
+        "englishEx": "today - tomorrow"
+    },
+    {
+        "suffix": "-ot",
+        "description": "Shows that the word is past tense",
+        "grifengEx": "suik - suikot",
+        "englishEx": "eat - ate"
+    },
+    {
+        "suffix": "-üt",
+        "description": "Shows that the word has the opposite meaning to the base word",
+        "grifengEx": "grice - griceüt",
+        "englishEx": "yes - no"
+    },
+    {
+        "suffix": "-er",
+        "description": "Shows that the word is third person singular present tense.",
+        "grifengEx": "oif - oifer",
+        "englishEx": "have - has"
+    }
+]

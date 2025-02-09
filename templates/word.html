@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grifeng</title>
+    <link rel="stylesheet" type="text/css" href="/main.css">
+</head>
+<body>
+    <h1 class="word">{{word}}</h1>
+    <p class="pronounce">{{pronunciation}}</p>
+    <hr>
+    <button><a href="/">Home</a></button>
+    <button><a href="/words">Words</a></button>
+    <button><a href="/suffixes">Suffixes</a></button>
+    <hr>
+    <p>English translation(s): {{translation}}</p>
+    <p><b>Example</b><br>Grifeng: {{grifengEx}}<br>English: {{englishEx}}</p>
+    {{#if suffix}}
+        <p>This word uses the <a href="{{#if isGenerating}}../suffixes/{{suffix}}{{else}}/suffixes/{{suffix}}{{/if}}">{{suffix}}</a> suffix. The base word is <a href="{{#if isGenerating}}../words/{{baseWord}}{{else}}/words/{{baseWord}}{{/if}}">{{baseWord}}</a>.</p>
+    {{/if}}
+</body>
+</html>

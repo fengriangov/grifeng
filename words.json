@@ -1,0 +1,18 @@
+[
+    {
+        "word": "ait",
+        "pronunciation": "/et/",
+        "translation": "it",
+        "grifengEx": "Ait crad düll.",
+        "englishEx": "It is dark."
+    },
+    {
+        "word": "oifer",
+        "pronunciation": "/ɔɪfɚ/",
+        "translation": "has",
+        "grifengEx": "Jerry oifer ar clof.",
+        "englishEx": "Jerry has a dog.",
+        "suffix": "-er",
+        "baseWord": "oif"
+    }
+]
