@@ -2,7 +2,6 @@ module.exports = {
     apps : [{
         name: "grifeng",
         script: "server.js",
-        user: "deploy",
         instances: "max",
         autorestart: true,
         watch: false,
