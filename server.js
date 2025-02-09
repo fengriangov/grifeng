@@ -3,7 +3,7 @@ const fs = require('fs');
 const handlebars = require('handlebars'); 
 const path = require('path');
 const app = express();
-const port = 3000;
+const port = 8080;
 
 // Give the pages access to files
 app.use(express.static('public'));
