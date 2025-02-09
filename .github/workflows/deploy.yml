@@ -24,4 +24,4 @@ jobs:
             echo "--=[ Installing required dependencies ]=--"
             sudo npm install
             echo "--=[ Restarting web server ]=--"
-            sudo -u jasper pm2 restart grifeng --update-env
+            sudo pm2 restart grifeng --update-env
