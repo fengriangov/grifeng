@@ -18,10 +18,10 @@ jobs:
           key: ${{ secrets.VPS_PRIVATE_KEY }}
           script: |
             cd /var/www/grifeng
+            echo "--=[ Pulling website from Github ]=--"
             git config pull.rebase false
-            echo "Pulling website from Github"
             git pull origin main
-            echo "Installing required dependencies"
+            echo "--=[ Installing required dependencies ]=--"
             sudo npm install
-            echo "Restarting server.js"
-            pm2 restart grifeng
+            echo "--=[ Restarting web server ]=--"
+            sudo pm2 restart grifeng
