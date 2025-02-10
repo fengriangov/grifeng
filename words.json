@@ -69,7 +69,9 @@
         "pronunciation": "/dızʊt/",
         "translation": "that",
         "grifengEx": "Dizüt crad Jerry.",
-        "englishEx": "That is Jerry."
+        "englishEx": "That is Jerry.",
+        "suffix": "-üt",
+        "baseWord": "diz"
     },
     {
         "word": "oifer",
