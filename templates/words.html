@@ -27,7 +27,13 @@
         <h3 id="{{@key}}">{{@key}}</h3>
         <ul>
         {{#each this}}
-            <li><a href="/words/{{this.word}}">{{this.translation}}</a></li>
+            {{#if this.translation.length}}
+                {{#each this.translation}}
+                    <li><a href="/words/{{this.word}}">{{this}}</a></li>
+                {{/each}}
+            {{else}}
+                <li><a href="/words/{{this.word}}">{{this.translation}}</a></li>
+            {{/if}}
         {{/each}}
         </ul>
     {{/each}}
