@@ -42,6 +42,36 @@
         "englishEx": "Can I get a dog?"
     },
     {
+        "word": "crad",
+        "pronunciation": "/kræd/",
+        "translation": "is",
+        "grifengEx": "Yef clofat nama crad Jeff.",
+        "englishEx": "The dog's name is Jeff."
+    },
+    {
+        "word": "cradot",
+        "pronunciation": "/krædat/",
+        "translation": "are",
+        "grifengEx": "Tun cradot namaot Bob.",
+        "englishEx": "You are named Bob.",
+        "suffix": "-ot",
+        "baseWord": "crad"
+    },
+    {
+        "word": "diz",
+        "pronunciation": "/dız/",
+        "translation": "this",
+        "grifengEx": "Diz crad Jeremy.",
+        "englishEx": "This is Jeremy."
+    },
+    {
+        "word": "dizüt",
+        "pronunciation": "/dızʊt/",
+        "translation": "that",
+        "grifengEx": "Dizüt crad Jerry.",
+        "englishEx": "That is Jerry."
+    },
+    {
         "word": "oifer",
         "pronunciation": "/ɔɪfɚ/",
         "translation": "has",
