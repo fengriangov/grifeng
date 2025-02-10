@@ -1,4 +1,4 @@
-// Config file for pm2
+// pm2 configuration file
 module.exports = {
     apps : [{
         name: "grifeng",

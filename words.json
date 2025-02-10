@@ -14,6 +14,34 @@
         "englishEx": "I want to be a dog."
     },
     {
+        "word": "alue",
+        "pronunciation": "/əlu/",
+        "translation": "but",
+        "grifengEx": "Ee wrif luf, alue ee clun gluf.",
+        "englishEx": "I want to, but I can not."
+    },
+    {
+        "word": "ar",
+        "pronunciation": "/ʌ/",
+        "translation": "a",
+        "grifengEx": "Ee suikot ar clof.",
+        "englishEx": "I ate a dog."
+    },
+    {
+        "word": "clof",
+        "pronunciation": "/klaf/",
+        "translation": "dog",
+        "grifengEx": "Ee oif ar clof.",
+        "englishEx": "I have a dog."
+    },
+    {
+        "word": "clun",
+        "pronunciation": "/clʊn/",
+        "translation": "can",
+        "grifengEx": "Clun ee tull ar clof?",
+        "englishEx": "Can I get a dog?"
+    },
+    {
         "word": "oifer",
         "pronunciation": "/ɔɪfɚ/",
         "translation": "has",
