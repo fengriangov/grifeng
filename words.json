@@ -74,6 +74,36 @@
         "baseWord": "diz"
     },
     {
+        "word": "düf",
+        "pronunciation": "/dʊf/",
+        "translation": "at, in, on",
+        "grifengEx": "Leo wrif luf suik düf McDonalds.",
+        "englishEx": "Leo wants to eat at McDonalds."
+    },
+    {
+        "word": "düll",
+        "pronunciation": "/dʊl/",
+        "translation": "dark",
+        "grifengEx": "Ait crad düll.",
+        "englishEx": "It is dark."
+    },
+    {
+        "word": "düllüt",
+        "pronunciation": "/dʊlʊt/",
+        "translation": "light",
+        "grifengEx": "Ait crad düllüt.",
+        "englishEx": "It is light.",
+        "suffix": "-üt",
+        "baseWord": "düll"
+    },
+    {
+        "word": "dün",
+        "pronunciation": "/dʊl/",
+        "translation": "out",
+        "grifengEx": "Priz tull dün.",
+        "englishEx": "Please get out."
+    },
+    {
         "word": "oifer",
         "pronunciation": "/ɔɪfɚ/",
         "translation": "has",
