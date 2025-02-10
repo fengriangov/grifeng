@@ -30,6 +30,14 @@ app.get('/words', (req, res) => { // Words page
 
         const words = JSON.parse(data);
 
+        // words.forEach(word => {
+        //     if (word.translation && word.translation.includes(',')) {
+        //         word.translation = word.translation.split(',').map(t => t.trim());
+        //     } else {
+        //         word.translation = [word.translation];
+        //     }
+        // });
+
         // Sort words into alphabetically ordered groups
         const groupedWords = {};
         words.sort((a, b) => a.translation.toLowerCase().localeCompare(b.translation.toLowerCase()));
