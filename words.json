@@ -76,17 +76,9 @@
     {
         "word": "düf",
         "pronunciation": "/dʊf/",
-        "translation": "on",
+        "translation": "at, on, in",
         "grifengEx": "Leo wrif luf suik düf McDonalds.",
         "englishEx": "Leo wants to eat at McDonalds."
-    },
-    {
-        "word": "düf",
-        "translation": "at"
-    },
-    {
-        "word": "düf",
-        "translation": "in"
     },
     {
         "word": "düll",
@@ -106,7 +98,7 @@
     },
     {
         "word": "dün",
-        "pronunciation": "/dʊl/",
+        "pronunciation": "/dʊn/",
         "translation": "out",
         "grifengEx": "Priz tull dün.",
         "englishEx": "Please get out."
