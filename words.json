@@ -24,8 +24,8 @@
         "word": "ar",
         "pronunciation": "/ʌ/",
         "translation": "a",
-        "grifengEx": "Ee suikot ar clof.",
-        "englishEx": "I ate a dog."
+        "grifengEx": "Ee oam ar clof.",
+        "englishEx": "I am a dog."
     },
     {
         "word": "clof",
@@ -104,6 +104,34 @@
         "englishEx": "You are out out.",
         "suffix": "-üt",
         "baseWord": "düf"
+    },
+    {
+        "word": "ee",
+        "pronunciation": "/i/",
+        "translation": "I",
+        "grifengEx": "Tun cradot ar clof, ee oam glüf.",
+        "englishEx": "You are a dog, I am not."
+    },
+    {
+        "word": "eelin",
+        "pronunciation": "/ilɪn/",
+        "translation": "if",
+        "grifengEx": "Eelin tun cradot ar clof, frip oam ee?",
+        "englishEx": "If you are a dog, what am I?"
+    },
+    {
+        "word": "ente",
+        "pronunciation": "/ante/",
+        "translation": "we",
+        "grifengEx": "Ente suik McDonalds.",
+        "englishEx": "We ate McDonalds."
+    },
+    {
+        "word": "faldo",
+        "pronunciation": "/fɑldo/",
+        "translation": "only",
+        "grifengEx": "Ait crad yef faldo erna.",
+        "englishEx": "It is the only one."
     },
     {
         "word": "oifer",
