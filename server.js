@@ -3,6 +3,7 @@ const fs = require('fs');
 const handlebars = require('handlebars'); 
 const path = require('path');
 const app = express();
+
 const port = 8080;
 
 // Give the pages access to files
@@ -15,12 +16,14 @@ const suffixesPage = handlebars.compile(fs.readFileSync('templates/suffixes.html
 const wordTemplate = handlebars.compile(fs.readFileSync('templates/word.html', 'utf8'));
 const suffixTemplate = handlebars.compile(fs.readFileSync('templates/suffix.html', 'utf8'));
 
-app.get('/', (req, res) => { // Home page
+// Home page
+app.get('/', (req, res) => {
     const html = indexPage();
     res.send(html);
 });
 
-app.get('/words', (req, res) => { // Words page
+// Words page
+app.get('/words', (req, res) => {
     fs.readFile('words.json', 'utf8', (err, data) => {
         if (err) {
             console.error(err);
@@ -31,13 +34,12 @@ app.get('/words', (req, res) => { // Words page
         const words = JSON.parse(data);
 
         const groupedWords = {};
-
         words.forEach(word => {
             let translations;
             if(Array.isArray(word.translation)) {
-                translations = word.translation
+                translations = word.translation;
             } else {
-                translations = [word.translation]
+                translations = [word.translation];
             }
 
             translations.forEach((translation) => {
@@ -45,32 +47,28 @@ app.get('/words', (req, res) => { // Words page
                 if (!groupedWords[firstLetter]) {
                     groupedWords[firstLetter] = []; // Create an array for this letter if it doesn't exist
                 }
-                groupedWords[firstLetter].push({...word, translation})
+                groupedWords[firstLetter].push({...word, translation});
             })
         });
 
-        // Now alphabetise
+        // Alphabetical Sorting
         // Sort the keys, then for each key (A-Z) assign it to new obj
-        // That then gets returned into alphabetised
         const alphabetised = Object.keys(groupedWords).sort().reduce((
             (obj, key) => {
-                // Sort each letter too :)
-                const sortedTranslations = groupedWords[key].sort((a, b) => wordSort(a.translation, b.translation))
-                obj[key] = sortedTranslations
-                return obj
-            }
-        ),{})
+                // Sort each letter
+                const sortedTranslations = groupedWords[key].sort((a, b) => a.translation.toLowerCase().localeCompare(b.translation.toLowerCase()));
+                obj[key] = sortedTranslations;
+                return obj;
+            }),{}
+        );
 
-        const html = wordsPage({ groupedWords: alphabetised })
+        const html = wordsPage({ groupedWords: alphabetised });
         res.send(html);
     });
 });
 
-function wordSort(first, second){
-    return first.toLowerCase().localeCompare(second.toLowerCase())
-}
-
-app.get('/words/:word', (req, res) => { // Individual word page
+// Individual word page
+app.get('/words/:word', (req, res) => {
     fs.readFile('words.json', 'utf8', (err, data) => {
         if(err){
             console.error(err);
@@ -90,7 +88,8 @@ app.get('/words/:word', (req, res) => { // Individual word page
     });
 });
 
-app.get('/suffixes', (req, res) => { // Suffixes page
+// Suffixes page
+app.get('/suffixes', (req, res) => {
     fs.readFile('suffixes.json', 'utf8', (err, data) => {
         if (err) {
             console.error(err);
@@ -106,7 +105,8 @@ app.get('/suffixes', (req, res) => { // Suffixes page
     });
 });
 
-app.get('/suffixes/:suffix', (req, res) => { // Individual suffix page
+// Individual suffix page
+app.get('/suffixes/:suffix', (req, res) => { 
     fs.readFile('suffixes.json', 'utf8', (err, data) => {
         if(err){
             console.error(err);
@@ -126,10 +126,12 @@ app.get('/suffixes/:suffix', (req, res) => { // Individual suffix page
     });
 });
 
+// 404 page
 app.get('/404', (req, res) => {
     res.status(404).sendFile(path.join(__dirname, "public", "404.html")); // Send the 404.html file
 });
 
+// 404 redirect
 app.use((req, res, next) => {
     res.redirect("/404")
 });
