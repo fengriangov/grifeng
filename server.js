@@ -65,7 +65,7 @@ app.get('/words', (req, res) => { // Words page
             } else {
                 translations = [word.translation]
             }
-            console.log('translations: ', translations)
+
             translations.forEach((translation) => {
             const firstLetter = translation.charAt(0).toUpperCase();
             if (!groupedWords[firstLetter]) {
