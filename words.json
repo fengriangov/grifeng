@@ -76,7 +76,7 @@
     {
         "word": "düf",
         "pronunciation": "/dʊf/",
-        "translation": "at, on, in",
+        "translation": ["at", "on", "in"],
         "grifengEx": "Leo wrif luf suik düf McDonalds.",
         "englishEx": "Leo wants to eat at McDonalds."
     },
