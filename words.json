@@ -97,11 +97,13 @@
         "baseWord": "düll"
     },
     {
-        "word": "dün",
-        "pronunciation": "/dʊn/",
-        "translation": "out",
-        "grifengEx": "Priz tull dün.",
-        "englishEx": "Please get out."
+        "word": "düfüt",
+        "pronunciation": "/dʊfʊt/",
+        "translation": ["off", "out"],
+        "grifengEx": "Tun cradot düfüt.",
+        "englishEx": "You are out out.",
+        "suffix": "-üt",
+        "baseWord": "düf"
     },
     {
         "word": "oifer",
