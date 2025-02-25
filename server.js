@@ -20,29 +20,6 @@ app.get('/', (req, res) => { // Home page
     res.send(html);
 });
 
-/**
- * @typedef {object} WordEntry
- * @property {string} word - The word.
- * @property {string} pronunciation - The pronunciation of the word.
- * @property {string | string[]} translation - The translation of the word.
- * @property {string} grifengEx - An example sentence in Grifeng.
- * @property {string} englishEx - The English translation of the example sentence.
- */
-
-/**
- * Same as WordEntry but with only a `string` translation
- * @typedef {object} ResolvedEntry
- * @property {string} word
- * @property {string} pronunciation
- * @property {string} translation
- * @property {string} grifengEx
- * @property {string} englishEx
- */
-
-/**
- * @typedef {Object.<string,ResolvedEntry[]>} WordGroups
- */
-
 app.get('/words', (req, res) => { // Words page
     fs.readFile('words.json', 'utf8', (err, data) => {
         if (err) {
@@ -51,14 +28,11 @@ app.get('/words', (req, res) => { // Words page
             return;
         }
 
-        /**@type {WordEntry[]} */
         const words = JSON.parse(data);
 
-        /**@type {WordGroups} */
         const groupedWords = {};
 
         words.forEach(word => {
-            /** @type {string[]} */
             let translations;
             if(Array.isArray(word.translation)) {
                 translations = word.translation
@@ -92,11 +66,6 @@ app.get('/words', (req, res) => { // Words page
     });
 });
 
-/**
- * Locale-sorts strings
- * @param {string} first
- * @param {string} second
- */
 function wordSort(first, second){
     return first.toLowerCase().localeCompare(second.toLowerCase())
 }
