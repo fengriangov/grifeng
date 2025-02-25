@@ -41,11 +41,11 @@ app.get('/words', (req, res) => { // Words page
             }
 
             translations.forEach((translation) => {
-            const firstLetter = translation.charAt(0).toUpperCase();
-            if (!groupedWords[firstLetter]) {
-                groupedWords[firstLetter] = []; // Create an array for this letter if it doesn't exist
-            }
-            groupedWords[firstLetter].push({...word, translation})
+                const firstLetter = translation.charAt(0).toUpperCase();
+                if (!groupedWords[firstLetter]) {
+                    groupedWords[firstLetter] = []; // Create an array for this letter if it doesn't exist
+                }
+                groupedWords[firstLetter].push({...word, translation})
             })
         });
 
