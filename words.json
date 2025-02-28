@@ -134,6 +134,34 @@
         "englishEx": "It is the only one."
     },
     {
+        "word": "fem",
+        "pronunciation": "/fɛm/",
+        "translation": ["she", "her"],
+        "grifengEx": "Fem clof crad namaot Gerald.",
+        "englishEx": "Her dog is named Gerald."
+    },
+    {
+        "word": "frip",
+        "pronunciation": "/frıp/",
+        "translation": "what",
+        "grifengEx": "Frip crad ente pila?",
+        "englishEx": "What are we playing?"
+    },
+    {
+        "word": "glüf",
+        "pronunciation": "/glʊf/",
+        "translation": "not",
+        "grifengEx": "Ee oam glüf ar clof.",
+        "englishEx": "I am not a dog."
+    },
+    {
+        "word": "gop",
+        "pronunciation": "/gap/",
+        "translation": "go",
+        "grifengEx": "Leo wrif lüf gop lüf McDonalds.",
+        "englishEx": "Leo wants to go to McDonalds."
+    },
+    {
         "word": "oifer",
         "pronunciation": "/ɔɪfɚ/",
         "translation": "has",
