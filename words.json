@@ -162,6 +162,36 @@
         "englishEx": "Leo wants to go to McDonalds."
     },
     {
+        "word": "grice",
+        "pronunciation": "/grɪs/",
+        "translation": "yes",
+        "grifengEx": "Grice, ee wrif lüf pila Minecraft.",
+        "englishEx": "Yes, I want to play Minecraft."
+    },
+    {
+        "word": "griceüt",
+        "pronunciation": "/grɪsʊt/",
+        "translation": "no",
+        "grifengEx": "Griceüt, ee re glüf wrif lüf pila Minecraft.",
+        "englishEx": "No, I do not want to play Minecraft.",
+        "suffix": "-üt",
+        "baseWord": "grice"
+    },
+    {
+        "word": "hew",
+        "pronunciation": "/hju/",
+        "translation": "how",
+        "grifengEx": "Hew re tun pila?",
+        "englishEx": "How do you play?"
+    },
+    {
+        "word": "lee",
+        "pronunciation": "/li/",
+        "translation": "how",
+        "grifengEx": "Ar clof suikot lee.",
+        "englishEx": "A dog ate me."
+    },
+    {
         "word": "oifer",
         "pronunciation": "/ɔɪfɚ/",
         "translation": "has",
