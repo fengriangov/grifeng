@@ -192,6 +192,34 @@
         "englishEx": "A dog ate me."
     },
     {
+        "word": "leoz",
+        "pronunciation": "/liaz/",
+        "translation": "because",
+        "grifengEx": "Ee wrif ar clof leoz ee ned ar ormond.",
+        "englishEx": "I want a dog because I need a friend."
+    },
+    {
+        "word": "luce",
+        "pronunciation": "/luʧi/",
+        "translation": ["and", "with"],
+        "grifengEx": "Re tun wrif lüf pila Minecraft luce lee?",
+        "englishEx": "Do you want to play Minecraft with me?"
+    },
+    {
+        "word": "lüd",
+        "pronunciation": "/lʊd/",
+        "translation": "good",
+        "grifengEx": "Cradot tün lüd?",
+        "englishEx": "Are you good?"
+    },
+    {
+        "word": "lüdüt",
+        "pronunciation": "/lʊdʊt/",
+        "translation": "bad",
+        "grifengEx": "Tün cradot vey lüdüt.",
+        "englishEx": "You are very bad."
+    },
+    {
         "word": "oifer",
         "pronunciation": "/ɔɪfɚ/",
         "translation": "has",
