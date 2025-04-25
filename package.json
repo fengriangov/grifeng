@@ -1,5 +1,5 @@
 {
-  "name": "grifeng",
+  "name": "fengri-grifeng",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -7,7 +7,7 @@
     "dev": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jasper Green",
   "license": "ISC",
   "description": "",
   "dependencies": {
