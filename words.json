@@ -148,7 +148,7 @@
         "englishEx": "I want McDonalds."
     },
     {
-        "word": "griceut",
+        "word": "griceüt",
         "pronunciation": "/grɪsʊt/",
         "translation": ["no"],
         "grifengEx": "",
@@ -319,7 +319,7 @@
         "englishEx": "I am a dog."
     },
     {
-        "word": "düllut",
+        "word": "düllüt",
         "pronunciation": "/dʊlʊt/",
         "translation": ["light"],
         "grifengEx": "Ait crad",
@@ -335,13 +335,11 @@
         "englishEx": "You are very good."
     },
     {
-        "word": "oifer",
-        "pronunciation": "/ɔɪfɚ/",
+        "word": "vark",
+        "pronunciation": "/vɚk/",
         "translation": ["has"],
         "grifengEx": "Jerry",
-        "englishEx": "Jerry has a dog.",
-        "suffix": "-er",
-        "baseWord": "oif"
+        "englishEx": "Jerry has a dog."
     },
     {
         "word": "gop",
@@ -395,7 +393,7 @@
         "baseWord": "crad"
     },
     {
-        "word": "clun",
+        "word": "clün",
         "pronunciation": "/clʊn/",
         "translation": ["can"],
         "grifengEx": "",
@@ -465,9 +463,25 @@
         "englishEx": "I eat KFC."
     },
     {
-        "word": "vadul",
+        "word": "vadül",
         "pronunciation": "/vdʊl/",
         "translation": ["say", "tell"],
+        "grifengEx": "Ee",
+        "englishEx": "I say, \"Do you eat dogs?\""
+    },
+    {
+        "word": "eeat",
+        "pronunciation": "/iæt/",
+        "translation": ["my"],
+        "grifengEx": "Ee",
+        "englishEx": "I say, \"Do you eat dogs?\"",
+        "suffix": "-at",
+        "baseWord": "ee"
+    },
+    {
+        "word": "düfüt",
+        "pronunciation": "/dʊfʊt/",
+        "translation": ["off", "out"],
         "grifengEx": "Ee",
         "englishEx": "I say, \"Do you eat dogs?\""
     },
