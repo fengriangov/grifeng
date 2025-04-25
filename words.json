@@ -220,6 +220,34 @@
         "englishEx": "You are very bad."
     },
     {
+        "word": "lüf",
+        "pronunciation": "/lʊf/",
+        "translation": ["to", "too"],
+        "grifengEx": "Ee wrif lüf suik ar clof.",
+        "englishEx": "I want to eat a dog."
+    },
+    {
+        "word": "mal",
+        "pronunciation": "/mæl/",
+        "translation": "or",
+        "grifengEx": "Re tun wrif lüf pila Minecraft or Roblox?",
+        "englishEx": "Do you want to play Minecraft or Roblox?"
+    },
+    {
+        "word": "masc",
+        "pronunciation": "/mæsk/",
+        "translation": ["he", "his", "him"],
+        "grifengEx": "Masc clof crad namaot Gerald.",
+        "englishEx": "His dog is named Gerald."
+    },
+    {
+        "word": "müna",
+        "pronunciation": "/mʊnʌ/",
+        "translation": "many",
+        "grifengEx": "Ee oif müna clofet.",
+        "englishEx": "I have many dogs."
+    },
+    {
         "word": "oifer",
         "pronunciation": "/ɔɪfɚ/",
         "translation": "has",
