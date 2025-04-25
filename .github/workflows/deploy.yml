@@ -22,7 +22,7 @@ jobs:
           script: |
             cd /var/www/grifeng
             echo "--=[ Pulling code from Github ]=--"
-            git pull -u origin main
+            git pull origin main
             echo "--=[ Installing required dependencies ]=--"
             npm install
             echo "--=[ Restarting web server ]=--"
