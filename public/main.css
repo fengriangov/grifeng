@@ -2,12 +2,12 @@
 
 * {
     font-family: Roboto Mono;
-    background-color: #111820;
-    color: #EEDAEA;
+    background-color: #122117;
+    color: #daede0;
 }
 
 h1, h3 {
-    color: #CF6ADD;
+    color: #6ade8f;
 }
 
 #hyperlinks {
@@ -37,13 +37,12 @@ button > a {
 
 .container {
     display: flex;
-    justify-content: center; /* Horizontally center */
-    align-items: center; /* Vertically center */
-    min-height: 100vh; /* Ensure container takes up full viewport height */
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
   
 .centerDiv {
-    /* Add any necessary width or height constraints here */
     width: 500px;
     height: 250px;
 }
