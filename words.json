@@ -1,259 +1,481 @@
 [
     {
-        "word": "ait",
-        "pronunciation": "/et/",
-        "translation": "it",
-        "grifengEx": "Ait crad düll.",
-        "englishEx": "It is dark."
+        "word": "sama",
+        "pronunciation": "/sʌmʌ/",
+        "translation": ["same"],
+        "grifengEx": "Ee oam yef",
+        "englishEx": "I am the same."
     },
     {
-        "word": "ali",
-        "pronunciation": "/æli/",
-        "translation": "be",
-        "grifengEx": "Ee reit ali ar clof.",
-        "englishEx": "I want to be a dog."
+        "word": "re",
+        "pronunciation": "/re/",
+        "translation": ["do"],
+        "grifengEx": "",
+        "englishEx": "Do you eat at McDonalds?"
     },
     {
-        "word": "alue",
-        "pronunciation": "/əlu/",
-        "translation": "but",
-        "grifengEx": "Ee wrif lüf, alue ee clun gluf.",
-        "englishEx": "I want to, but I can not."
-    },
-    {
-        "word": "ar",
-        "pronunciation": "/ʌ/",
-        "translation": "a",
-        "grifengEx": "Ee oam ar clof.",
-        "englishEx": "I am a dog."
+        "word": "wiya",
+        "pronunciation": "/wijʌ/",
+        "translation": ["why"],
+        "grifengEx": "",
+        "englishEx": "Why did you do that?"
     },
     {
         "word": "clof",
         "pronunciation": "/klaf/",
-        "translation": "dog",
-        "grifengEx": "Ee oif ar clof.",
-        "englishEx": "I have a dog."
+        "translation": ["dog"],
+        "grifengEx": "Ee oam ar",
+        "englishEx": "I am a dog."
     },
     {
-        "word": "clun",
-        "pronunciation": "/clʊn/",
-        "translation": "can",
-        "grifengEx": "Clun ee tull ar clof?",
-        "englishEx": "Can I get a dog?"
+        "word": "ar",
+        "pronunciation": "/ʌ/",
+        "translation": ["a"],
+        "grifengEx": "Ee suikot",
+        "englishEx": "I ate a dog."
     },
     {
-        "word": "crad",
-        "pronunciation": "/kræd/",
-        "translation": "is",
-        "grifengEx": "Yef clofat nama crad Jeff.",
-        "englishEx": "The dog's name is Jeff."
+        "word": "oif",
+        "pronunciation": "/ɔɪf/",
+        "translation": ["have"],
+        "grifengEx": "Re tun",
+        "englishEx": "Do you have a dog?"
     },
     {
-        "word": "cradot",
-        "pronunciation": "/krædat/",
-        "translation": "are",
-        "grifengEx": "Tun cradot namaot Bob.",
-        "englishEx": "You are named Bob.",
+        "word": "nama",
+        "pronunciation": "/nʌmʌ/",
+        "translation": ["name"],
+        "grifengEx": "Lee",
+        "englishEx": "My name is Matthew."
+    },
+    {
+        "word": "oifot",
+        "pronunciation": "/ɔɪfat/",
+        "translation": ["had"],
+        "grifengEx": "Jasper",
+        "englishEx": "Jasper had a dog.",
         "suffix": "-ot",
-        "baseWord": "crad"
+        "baseWord": "oif"
     },
     {
-        "word": "diz",
-        "pronunciation": "/dız/",
-        "translation": "this",
-        "grifengEx": "Diz crad Jeremy.",
-        "englishEx": "This is Jeremy."
-    },
-    {
-        "word": "dizüt",
-        "pronunciation": "/dızʊt/",
-        "translation": "that",
-        "grifengEx": "Dizüt crad Jerry.",
-        "englishEx": "That is Jerry.",
+        "word": "oyaüt",
+        "pronunciation": "/ɔɪɑʊt/",
+        "translation": ["bye"],
+        "grifengEx": "",
+        "englishEx": "Bye Jasper.",
         "suffix": "-üt",
-        "baseWord": "diz"
+        "baseWord": "oya"
     },
     {
-        "word": "düf",
-        "pronunciation": "/dʊf/",
-        "translation": ["at", "on", "in"],
-        "grifengEx": "Leo wrif luf suik düf McDonalds.",
-        "englishEx": "Leo wants to eat at McDonalds."
+        "word": "pilaot",
+        "pronunciation": "/pılat/",
+        "translation": ["played"],
+        "grifengEx": "Ee pilaot",
+        "englishEx": "I played Minecraft.",
+        "suffix": "-ot",
+        "baseWord": "pila"
     },
     {
-        "word": "düll",
-        "pronunciation": "/dʊl/",
-        "translation": "dark",
-        "grifengEx": "Ait crad düll.",
-        "englishEx": "It is dark."
-    },
-    {
-        "word": "düllüt",
-        "pronunciation": "/dʊlʊt/",
-        "translation": "light",
-        "grifengEx": "Ait crad düllüt.",
-        "englishEx": "It is light.",
-        "suffix": "-üt",
-        "baseWord": "düll"
-    },
-    {
-        "word": "düfüt",
-        "pronunciation": "/dʊfʊt/",
-        "translation": ["off", "out"],
-        "grifengEx": "Tun cradot düfüt.",
-        "englishEx": "You are out out.",
-        "suffix": "-üt",
-        "baseWord": "düf"
-    },
-    {
-        "word": "ee",
-        "pronunciation": "/i/",
-        "translation": "I",
-        "grifengEx": "Tun cradot ar clof, ee oam glüf.",
-        "englishEx": "You are a dog, I am not."
-    },
-    {
-        "word": "eelin",
-        "pronunciation": "/ilɪn/",
-        "translation": "if",
-        "grifengEx": "Eelin tun cradot ar clof, frip oam ee?",
-        "englishEx": "If you are a dog, what am I?"
-    },
-    {
-        "word": "ente",
-        "pronunciation": "/ante/",
-        "translation": "we",
-        "grifengEx": "Ente suik McDonalds.",
-        "englishEx": "We ate McDonalds."
-    },
-    {
-        "word": "faldo",
-        "pronunciation": "/fɑldo/",
-        "translation": "only",
-        "grifengEx": "Ait crad yef faldo erna.",
-        "englishEx": "It is the only one."
-    },
-    {
-        "word": "fem",
-        "pronunciation": "/fɛm/",
-        "translation": ["she", "her"],
-        "grifengEx": "Fem clof crad namaot Gerald.",
-        "englishEx": "Her dog is named Gerald."
-    },
-    {
-        "word": "frip",
-        "pronunciation": "/frıp/",
-        "translation": "what",
-        "grifengEx": "Frip crad ente pila?",
-        "englishEx": "What are we playing?"
-    },
-    {
-        "word": "glüf",
-        "pronunciation": "/glʊf/",
-        "translation": "not",
-        "grifengEx": "Ee oam glüf ar clof.",
-        "englishEx": "I am not a dog."
-    },
-    {
-        "word": "gop",
-        "pronunciation": "/gap/",
-        "translation": "go",
-        "grifengEx": "Leo wrif lüf gop lüf McDonalds.",
-        "englishEx": "Leo wants to go to McDonalds."
-    },
-    {
-        "word": "grice",
-        "pronunciation": "/grɪs/",
-        "translation": "yes",
-        "grifengEx": "Grice, ee wrif lüf pila Minecraft.",
-        "englishEx": "Yes, I want to play Minecraft."
-    },
-    {
-        "word": "griceüt",
-        "pronunciation": "/grɪsʊt/",
-        "translation": "no",
-        "grifengEx": "Griceüt, ee re glüf wrif lüf pila Minecraft.",
-        "englishEx": "No, I do not want to play Minecraft.",
-        "suffix": "-üt",
-        "baseWord": "grice"
-    },
-    {
-        "word": "hew",
-        "pronunciation": "/hju/",
-        "translation": "how",
-        "grifengEx": "Hew re tun pila?",
-        "englishEx": "How do you play?"
-    },
-    {
-        "word": "lee",
-        "pronunciation": "/li/",
-        "translation": "me",
-        "grifengEx": "Ar clof suikot lee.",
-        "englishEx": "A dog ate me."
-    },
-    {
-        "word": "leoz",
-        "pronunciation": "/liaz/",
-        "translation": "because",
-        "grifengEx": "Ee wrif ar clof leoz ee ned ar ormond.",
-        "englishEx": "I want a dog because I need a friend."
+        "word": "tün",
+        "pronunciation": "/tʊn/",
+        "translation": ["you"],
+        "grifengEx": "",
+        "englishEx": "You are not a dog."
     },
     {
         "word": "luce",
         "pronunciation": "/luʧi/",
         "translation": ["and", "with"],
-        "grifengEx": "Re tun wrif lüf pila Minecraft luce lee?",
-        "englishEx": "Do you want to play Minecraft with me?"
+        "grifengEx": "Re tun reit pila Minecraft",
+        "englishEx": "Do you want to play Minecraft with Matthew?"
     },
     {
-        "word": "lüd",
-        "pronunciation": "/lʊd/",
-        "translation": "good",
-        "grifengEx": "Cradot tün lüd?",
-        "englishEx": "Are you good?"
+        "word": "tay",
+        "pronunciation": "/te/",
+        "translation": ["they"],
+        "grifengEx": "",
+        "englishEx": "They are not a dog."
     },
     {
-        "word": "lüdüt",
-        "pronunciation": "/lʊdʊt/",
-        "translation": "bad",
-        "grifengEx": "Tün cradot vey lüdüt.",
-        "englishEx": "You are very bad."
+        "word": "vey",
+        "pronunciation": "/ve/",
+        "translation": ["very"],
+        "grifengEx": "Tun cradot",
+        "englishEx": "You are very good."
+    },
+    {
+        "word": "düf",
+        "pronunciation": "/dʊf/",
+        "translation": ["at", "in", "on"],
+        "grifengEx": "Leo wrif suik",
+        "englishEx": "Leo wants to eat at McDonalds."
+    },
+    {
+        "word": "ormond",
+        "pronunciation": "/ɔmənd/",
+        "translation": ["friend"],
+        "grifengEx": "Ee oifit griceut",
+        "englishEx": "I have no friends."
+    },
+    {
+        "word": "reot",
+        "pronunciation": "/riat/",
+        "translation": ["did"],
+        "grifengEx": "Wiya",
+        "englishEx": "Why did you do that?",
+        "suffix": "-ot",
+        "baseWord": "re"
+    },
+    {
+        "word": "eelin",
+        "pronunciation": "/ilɪn/",
+        "translation": ["if"],
+        "grifengEx": "",
+        "englishEx": "If only I got to eat a dog."
+    },
+    {
+        "word": "ait",
+        "pronunciation": "/et/",
+        "translation": ["it"],
+        "grifengEx": "",
+        "englishEx": "It is dark."
+    },
+    {
+        "word": "wrif",
+        "pronunciation": "/rıf/",
+        "translation": ["want"],
+        "grifengEx": "Ee",
+        "englishEx": "I want McDonalds."
+    },
+    {
+        "word": "griceut",
+        "pronunciation": "/grɪsʊt/",
+        "translation": ["no"],
+        "grifengEx": "",
+        "englishEx": "No, I do not want to play Roblox.",
+        "suffix": "-üt",
+        "baseWord": "grice"
+    },
+    {
+        "word": "frip",
+        "pronunciation": "/frıp/",
+        "translation": ["what"],
+        "grifengEx": "",
+        "englishEx": "What are we playing?"
+    },
+    {
+        "word": "diz",
+        "pronunciation": "/dız/",
+        "translation": ["this"],
+        "grifengEx": "",
+        "englishEx": "This is Jeremy."
+    },
+    {
+        "word": "dizüt",
+        "pronunciation": "/dızʊt/",
+        "translation": ["that"],
+        "grifengEx": "",
+        "englishEx": "That is Jerry.",
+        "suffix": "-üt",
+        "baseWord": "diz"
     },
     {
         "word": "lüf",
         "pronunciation": "/lʊf/",
         "translation": ["to", "too"],
-        "grifengEx": "Ee wrif lüf suik ar clof.",
+        "grifengEx": "Ee reit",
         "englishEx": "I want to eat a dog."
+    },
+    {
+        "word": "crad",
+        "pronunciation": "/kræd/",
+        "translation": ["is"],
+        "grifengEx": "Yef clofat nama",
+        "englishEx": "The dog's name is Jeff."
+    },
+    {
+        "word": "fem",
+        "pronunciation": "/fɛm/",
+        "translation": ["she", "her"],
+        "grifengEx": "",
+        "englishEx": "Her dog is named Gerald."
+    },
+    {
+        "word": "pila",
+        "pronunciation": "/pılʌ/",
+        "translation": ["play"],
+        "grifengEx": "Ee pila",
+        "englishEx": "I play Minecraft."
+    },
+    {
+        "word": "priz",
+        "pronunciation": "/prız/",
+        "translation": ["please"],
+        "grifengEx": "",
+        "englishEx": "Please, can you get the dog?"
+    },
+    {
+        "word": "suik",
+        "pronunciation": "/suɪk/",
+        "translation": ["eat"],
+        "grifengEx": "Re tun reit",
+        "englishEx": "Do you want to eat at McDonalds?"
+    },
+    {
+        "word": "müna",
+        "pronunciation": "/mʊnʌ/",
+        "translation": ["many"],
+        "grifengEx": "Ee oifit",
+        "englishEx": "I have many dogs."
+    },
+    {
+        "word": "ente",
+        "pronunciation": "/ante/",
+        "translation": ["we"],
+        "grifengEx": "",
+        "englishEx": "We are dogs."
+    },
+    {
+        "word": "ol",
+        "pronunciation": "/al/",
+        "translation": ["will"],
+        "grifengEx": "",
+        "englishEx": "Will you play Minecraft with me?"
+    },
+    {
+        "word": "sar",
+        "pronunciation": "/sə/",
+        "translation": ["as"],
+        "grifengEx": "Tun cradot",
+        "englishEx": "You are as good as a dog."
+    },
+    {
+        "word": "remeot",
+        "pronunciation": "/rimat/",
+        "translation": ["before"],
+        "grifengEx": "",
+        "englishEx": "Before I eat my dog, I will say hi to my friend."
+    },
+    {
+        "word": "glüf",
+        "pronunciation": "/glʊf/",
+        "translation": ["not"],
+        "grifengEx": "Ee oam",
+        "englishEx": "I am not a dog."
+    },
+    {
+        "word": "tullot",
+        "pronunciation": "/tʌlat/",
+        "translation": ["got"],
+        "grifengEx": "Ee",
+        "englishEx": "I got the dog.",
+        "suffix": "-ot",
+        "baseWord": "tull"
+    },
+    {
+        "word": "vair",
+        "pronunciation": "/ver/",
+        "translation": ["where"],
+        "grifengEx": "",
+        "englishEx": "Where is the dog?"
+    },
+    {
+        "word": "tünat",
+        "pronunciation": "/tʊnæt/",
+        "translation": ["your"],
+        "grifengEx": "",
+        "englishEx": "Your dog is named Gerald.",
+        "suffix": "-at",
+        "baseWord": "tun"
+    },
+    {
+        "word": "ali",
+        "pronunciation": "/æli/",
+        "translation": ["be"],
+        "grifengEx": "Ee reit",
+        "englishEx": "I want to be a dog."
+    },
+    {
+        "word": "lüdüt",
+        "pronunciation": "/lʊdʊt/",
+        "translation": ["bad"],
+        "grifengEx": "Tun cradot vey",
+        "englishEx": "You are very bad.",
+        "suffix": "-üt",
+        "baseWord": "lud"
+    },
+    {
+        "word": "faldo",
+        "pronunciation": "/fɑldo/",
+        "translation": ["only"],
+        "grifengEx": "Ait crad yef",
+        "englishEx": "It is the only one."
+    },
+    {
+        "word": "oam",
+        "pronunciation": "/om/",
+        "translation": ["am"],
+        "grifengEx": "Ee",
+        "englishEx": "I am a dog."
+    },
+    {
+        "word": "düllut",
+        "pronunciation": "/dʊlʊt/",
+        "translation": ["light"],
+        "grifengEx": "Ait crad",
+        "englishEx": "It is light.",
+        "suffix": "-üt",
+        "baseWord": "düll"
+    },
+    {
+        "word": "lüd",
+        "pronunciation": "/lʊd/",
+        "translation": ["good"],
+        "grifengEx": "Tun cradot vey",
+        "englishEx": "You are very good."
+    },
+    {
+        "word": "oifer",
+        "pronunciation": "/ɔɪfɚ/",
+        "translation": ["has"],
+        "grifengEx": "Jerry",
+        "englishEx": "Jerry has a dog.",
+        "suffix": "-er",
+        "baseWord": "oif"
+    },
+    {
+        "word": "gop",
+        "pronunciation": "/gap/",
+        "translation": ["go"],
+        "grifengEx": "",
+        "englishEx": "Go to the McDonalds."
     },
     {
         "word": "mal",
         "pronunciation": "/mæl/",
-        "translation": "or",
-        "grifengEx": "Re tun wrif lüf pila Minecraft or Roblox?",
+        "translation": ["or"],
+        "grifengEx": "Re tun reit pila Minecraft",
         "englishEx": "Do you want to play Minecraft or Roblox?"
+    },
+    {
+        "word": "hew",
+        "pronunciation": "/hju/",
+        "translation": ["how"],
+        "grifengEx": "",
+        "englishEx": "How do you eat McDonalds?"
+    },
+    {
+        "word": "lee",
+        "pronunciation": "/li/",
+        "translation": ["me"],
+        "grifengEx": "Jerry namaot",
+        "englishEx": "Jerry named me Jasper."
+    },
+    {
+        "word": "reme",
+        "pronunciation": "/rim/",
+        "translation": ["now"],
+        "grifengEx": "Pila luce lee",
+        "englishEx": "Play with me now!"
+    },
+    {
+        "word": "grice",
+        "pronunciation": "/grɪs/",
+        "translation": ["yes"],
+        "grifengEx": "",
+        "englishEx": "Yes, I want to play Minecraft with you."
+    },
+    {
+        "word": "cradot",
+        "pronunciation": "/krædat/",
+        "translation": ["are"],
+        "grifengEx": "Tun",
+        "englishEx": "You are named Bob.",
+        "suffix": "-ot",
+        "baseWord": "crad"
+    },
+    {
+        "word": "clun",
+        "pronunciation": "/clʊn/",
+        "translation": ["can"],
+        "grifengEx": "",
+        "englishEx": "Can I eat the dog?"
+    },
+    {
+        "word": "dün",
+        "pronunciation": "/dʊn/",
+        "translation": ["out"],
+        "grifengEx": "Tun cradot",
+        "englishEx": "You are out."
     },
     {
         "word": "masc",
         "pronunciation": "/mæsk/",
         "translation": ["he", "his", "him"],
-        "grifengEx": "Masc clof crad namaot Gerald.",
+        "grifengEx": "",
         "englishEx": "His dog is named Gerald."
     },
     {
-        "word": "müna",
-        "pronunciation": "/mʊnʌ/",
-        "translation": "many",
-        "grifengEx": "Ee oif müna clofet.",
-        "englishEx": "I have many dogs."
+        "word": "alue",
+        "pronunciation": "/əlu/",
+        "translation": ["but"],
+        "grifengEx": "Ee wrif luf",
+        "englishEx": "I want to but I can not."
     },
     {
-        "word": "oifer",
-        "pronunciation": "/ɔɪfɚ/",
-        "translation": "has",
-        "grifengEx": "Jerry oifer ar clof.",
-        "englishEx": "Jerry has a dog.",
-        "suffix": "-er",
-        "baseWord": "oif"
+        "word": "sune",
+        "pronunciation": "/sun/",
+        "translation": ["of"],
+        "grifengEx": "",
+        "englishEx": "Of."
+    },
+    {
+        "word": "yef",
+        "pronunciation": "/jɛf/",
+        "translation": ["the"],
+        "grifengEx": "",
+        "englishEx": "The dog is named Gerald."
+    },
+    {
+        "word": "leoz",
+        "pronunciation": "/liaz/",
+        "translation": ["because"],
+        "grifengEx": "Ee oam ar clof",
+        "englishEx": "I am a dog because of the light."
+    },
+    {
+        "word": "tull",
+        "pronunciation": "/tʌl/",
+        "translation": ["get"],
+        "grifengEx": "",
+        "englishEx": "Get the dog."
+    },
+    {
+        "word": "düll",
+        "pronunciation": "/dʊl/",
+        "translation": ["dark"],
+        "grifengEx": "Ait crad",
+        "englishEx": "It is dark."
+    },
+    {
+        "word": "ee",
+        "pronunciation": "/i/",
+        "translation": ["I"],
+        "grifengEx": "",
+        "englishEx": "I eat KFC."
+    },
+    {
+        "word": "vadul",
+        "pronunciation": "/vdʊl/",
+        "translation": ["say", "tell"],
+        "grifengEx": "Ee",
+        "englishEx": "I say, \"Do you eat dogs?\""
+    },
+    {
+        "word": "oya",
+        "pronunciation": "/ɔɪʌ/",
+        "translation": ["hello"],
+        "grifengEx": "",
+        "englishEx": "Hello Jerry."
     }
 ]

@@ -28,11 +28,5 @@
         "description": "Shows that the word has the opposite meaning to the base word",
         "grifengEx": "grice - griceüt",
         "englishEx": "yes - no"
-    },
-    {
-        "suffix": "-er",
-        "description": "Shows that the word is third person singular present tense.",
-        "grifengEx": "oif - oifer",
-        "englishEx": "have - has"
     }
 ]
