@@ -21,8 +21,7 @@ jobs:
           script: |
             cd /var/www/grifeng
             echo "--=[ Pulling code from Github ]=--"
-            git config pull.rebase false
-            git pull origin main
+            git fetch -u origin main
             echo "--=[ Installing required dependencies ]=--"
             npm install
             echo "--=[ Restarting web server ]=--"
