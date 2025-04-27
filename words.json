@@ -3,28 +3,28 @@
         "word": "sama",
         "pronunciation": "/sʌmʌ/",
         "translation": ["same"],
-        "grifengEx": "Ee oam yef",
-        "englishEx": "I am the same."
+        "grifengEx": "Ee oam yef sama sar tun.",
+        "englishEx": "I am the same as you."
     },
     {
         "word": "re",
         "pronunciation": "/re/",
         "translation": ["do"],
-        "grifengEx": "",
+        "grifengEx": "Re tün suik düf McDonalds?",
         "englishEx": "Do you eat at McDonalds?"
     },
     {
         "word": "wiya",
         "pronunciation": "/wijʌ/",
         "translation": ["why"],
-        "grifengEx": "",
+        "grifengEx": "Wiya reot tün re dizüt?",
         "englishEx": "Why did you do that?"
     },
     {
         "word": "clof",
         "pronunciation": "/klaf/",
         "translation": ["dog"],
-        "grifengEx": "Ee oam ar",
+        "grifengEx": "Ee oam ar clof.",
         "englishEx": "I am a dog."
     },
     {
