@@ -57,7 +57,6 @@
         "suffix": "-ot",
         "baseWord": "oif"
     },
-
     {
         "word": "oyaüt",
         "pronunciation": "/ɔɪɑʊt/",
@@ -94,28 +93,28 @@
         "word": "tay",
         "pronunciation": "/te/",
         "translation": ["they"],
-        "grifengEx": "",
-        "englishEx": "They are not a dog."
+        "grifengEx": "Tay cradot glüf clofet.",
+        "englishEx": "They are not dogs."
     },
     {
         "word": "vey",
         "pronunciation": "/ve/",
         "translation": ["very"],
-        "grifengEx": "Tun cradot",
+        "grifengEx": "Tun cradot vey lüd.",
         "englishEx": "You are very good."
     },
     {
         "word": "düf",
         "pronunciation": "/dʊf/",
         "translation": ["at", "in", "on"],
-        "grifengEx": "Leo wrif suik",
+        "grifengEx": "Leo wrifet lüf suik düf McDonalds.",
         "englishEx": "Leo wants to eat at McDonalds."
     },
     {
         "word": "ormond",
         "pronunciation": "/ɔmənd/",
         "translation": ["friend"],
-        "grifengEx": "Ee oifit griceut",
+        "grifengEx": "Ee oifit griceut ormondet.",
         "englishEx": "I have no friends."
     },
     {
