@@ -31,28 +31,28 @@
         "word": "ar",
         "pronunciation": "/ʌ/",
         "translation": ["a"],
-        "grifengEx": "Ee suikot",
+        "grifengEx": "Ee suikot ar clof.",
         "englishEx": "I ate a dog."
     },
     {
         "word": "oif",
         "pronunciation": "/ɔɪf/",
         "translation": ["have"],
-        "grifengEx": "Re tun",
+        "grifengEx": "Re tun oif ar clof?",
         "englishEx": "Do you have a dog?"
     },
     {
         "word": "nama",
         "pronunciation": "/nʌmʌ/",
         "translation": ["name"],
-        "grifengEx": "Lee",
+        "grifengEx": "Lee nama crad Matthew.",
         "englishEx": "My name is Matthew."
     },
     {
         "word": "oifot",
         "pronunciation": "/ɔɪfat/",
         "translation": ["had"],
-        "grifengEx": "Jasper",
+        "grifengEx": "Jasper oifot ar clof.",
         "englishEx": "Jasper had a dog.",
         "suffix": "-ot",
         "baseWord": "oif"
