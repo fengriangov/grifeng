@@ -57,11 +57,12 @@
         "suffix": "-ot",
         "baseWord": "oif"
     },
+
     {
         "word": "oyaüt",
         "pronunciation": "/ɔɪɑʊt/",
         "translation": ["bye"],
-        "grifengEx": "",
+        "grifengEx": "Oyaüt Jasper.",
         "englishEx": "Bye Jasper.",
         "suffix": "-üt",
         "baseWord": "oya"
@@ -70,8 +71,8 @@
         "word": "pilaot",
         "pronunciation": "/pılat/",
         "translation": ["played"],
-        "grifengEx": "Ee pilaot",
-        "englishEx": "I played Minecraft.",
+        "grifengEx": "Ee pilaot Minecraft kajülot",
+        "englishEx": "I played Minecraft yesterday.",
         "suffix": "-ot",
         "baseWord": "pila"
     },
@@ -79,14 +80,14 @@
         "word": "tün",
         "pronunciation": "/tʊn/",
         "translation": ["you"],
-        "grifengEx": "",
+        "grifengEx": "Tün cradot glüf ar clof.",
         "englishEx": "You are not a dog."
     },
     {
         "word": "luce",
         "pronunciation": "/luʧi/",
         "translation": ["and", "with"],
-        "grifengEx": "Re tun reit pila Minecraft",
+        "grifengEx": "Re tün reit pila Minecraft luce Matthew?",
         "englishEx": "Do you want to play Minecraft with Matthew?"
     },
     {
