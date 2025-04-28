@@ -299,31 +299,31 @@
         "word": "lüdüt",
         "pronunciation": "/lʊdʊt/",
         "translation": ["bad"],
-        "grifengEx": "Tun cradot vey",
-        "englishEx": "You are very bad.",
+        "grifengEx": "Whop crad vey lüdüt",
+        "englishEx": "Leo is very bad.",
         "suffix": "-üt",
-        "baseWord": "lud"
+        "baseWord": "lüd"
     },
     {
         "word": "faldo",
         "pronunciation": "/fɑldo/",
         "translation": ["only"],
-        "grifengEx": "Ait crad yef",
-        "englishEx": "It is the only one."
+        "grifengEx": "Faldo Gerald crad ar clof.",
+        "englishEx": "Only Gerald is a dog."
     },
     {
         "word": "oam",
         "pronunciation": "/om/",
         "translation": ["am"],
-        "grifengEx": "Ee",
-        "englishEx": "I am a dog."
+        "grifengEx": "Ee oam griceüt ar clof.",
+        "englishEx": "I am not a dog."
     },
     {
         "word": "düllüt",
         "pronunciation": "/dʊlʊt/",
         "translation": ["light"],
-        "grifengEx": "Ait crad",
-        "englishEx": "It is light.",
+        "grifengEx": "Ait crad düllüt reme.",
+        "englishEx": "It is light now.",
         "suffix": "-üt",
         "baseWord": "düll"
     },
