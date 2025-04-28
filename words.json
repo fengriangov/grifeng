@@ -232,35 +232,35 @@
         "word": "ente",
         "pronunciation": "/ante/",
         "translation": ["we"],
-        "grifengEx": "Ente oif griceüt wongwayet, ente ned tay balah",
+        "grifengEx": "Ente oif griceüt wongwayet, ente ned tay balah.",
         "englishEx": "We have no rights, we need them back."
     },
     {
         "word": "ol",
         "pronunciation": "/al/",
         "translation": ["will"],
-        "grifengEx": "",
+        "grifengEx": "Ol tun pila Minecraft lüce lee?",
         "englishEx": "Will you play Minecraft with me?"
     },
     {
         "word": "sar",
         "pronunciation": "/sə/",
         "translation": ["as"],
-        "grifengEx": "Tun cradot",
-        "englishEx": "You are as good as a dog."
+        "grifengEx": "Tun cradot sar lüd sar lüdüt.",
+        "englishEx": "You are as good as bad."
     },
     {
         "word": "remeot",
         "pronunciation": "/rimat/",
         "translation": ["before"],
-        "grifengEx": "",
+        "grifengEx": "Remeot ee suik eeat clof, ee ol vadul oya lüf eeat ormond.",
         "englishEx": "Before I eat my dog, I will say hi to my friend."
     },
     {
         "word": "glüf",
         "pronunciation": "/glʊf/",
         "translation": ["not"],
-        "grifengEx": "Ee oam",
+        "grifengEx": "Ee oam glüf ar clof.",
         "englishEx": "I am not a dog."
     },
     {
