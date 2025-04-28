@@ -20,7 +20,7 @@ jobs:
           username: deploy
           key: ${{ secrets.VPS_PRIVATE_KEY }}
           script: |
-            cd /var/www/grifeng
+            cd /var/www/fengri/grifeng
             echo "--=[ Pulling code from Github ]=--"
             git fetch -u origin main
             echo "--=[ Discarding local changes ]=--"
