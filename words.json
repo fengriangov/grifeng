@@ -151,7 +151,7 @@
         "word": "griceüt",
         "pronunciation": "/grɪsʊt/",
         "translation": ["no"],
-        "grifengEx": "",
+        "grifengEx": "Griceüt, ee re glüf wrif lüf pila Roblox.",
         "englishEx": "No, I do not want to play Roblox.",
         "suffix": "-üt",
         "baseWord": "grice"
@@ -160,22 +160,22 @@
         "word": "frip",
         "pronunciation": "/frıp/",
         "translation": ["what"],
-        "grifengEx": "",
+        "grifengEx": "Frip cradot ente pila?",
         "englishEx": "What are we playing?"
     },
     {
         "word": "diz",
         "pronunciation": "/dız/",
         "translation": ["this"],
-        "grifengEx": "",
+        "grifengEx": "Diz crad Jeremy.",
         "englishEx": "This is Jeremy."
     },
     {
         "word": "dizüt",
         "pronunciation": "/dızʊt/",
         "translation": ["that"],
-        "grifengEx": "",
-        "englishEx": "That is Jerry.",
+        "grifengEx": "Dizüt crad Jasper",
+        "englishEx": "That is Jasper.",
         "suffix": "-üt",
         "baseWord": "diz"
     },
