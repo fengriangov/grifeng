@@ -10,7 +10,6 @@ const port = 8080;
 app.use(express.static('public'));
 
 // Compile the pages at server startup
-const indexPage = handlebars.compile(fs.readFileSync('templates/index.html', 'utf8'));
 const wordsPage = handlebars.compile(fs.readFileSync('templates/words.html', 'utf8'));
 const suffixesPage = handlebars.compile(fs.readFileSync('templates/suffixes.html', 'utf8'));
 const wordTemplate = handlebars.compile(fs.readFileSync('templates/word.html', 'utf8'));
@@ -18,8 +17,7 @@ const suffixTemplate = handlebars.compile(fs.readFileSync('templates/suffix.html
 
 // Home page
 app.get('/', (req, res) => {
-    const html = indexPage();
-    res.send(html);
+    res.sendFile(path.join(__dirname, '/public/index.html'));
 });
 
 // Words page
