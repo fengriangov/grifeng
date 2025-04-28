@@ -1,5 +1,5 @@
 module.exports = {
-    apps : [{
+    apps: [{
         name: "fengri-grifeng",
         script: "server.js",
         instances: "max",
