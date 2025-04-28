@@ -121,7 +121,7 @@
         "word": "reot",
         "pronunciation": "/riat/",
         "translation": ["did"],
-        "grifengEx": "Wiya",
+        "grifengEx": "Wiya reot tün re dizüt?",
         "englishEx": "Why did you do that?",
         "suffix": "-ot",
         "baseWord": "re"
@@ -130,21 +130,21 @@
         "word": "eelin",
         "pronunciation": "/ilɪn/",
         "translation": ["if"],
-        "grifengEx": "",
-        "englishEx": "If only I got to eat a dog."
+        "grifengEx": "Ee olot oif ar clof eelin masc reot glüf suik ait.",
+        "englishEx": "I would have a dog if he didn't eat it."
     },
     {
         "word": "ait",
         "pronunciation": "/et/",
         "translation": ["it"],
-        "grifengEx": "",
-        "englishEx": "It is dark."
+        "grifengEx": "Ait crad düll reme.",
+        "englishEx": "It is dark now."
     },
     {
         "word": "wrif",
         "pronunciation": "/rıf/",
         "translation": ["want"],
-        "grifengEx": "Ee",
+        "grifengEx": "Ee wrif McDonalds.",
         "englishEx": "I want McDonalds."
     },
     {
