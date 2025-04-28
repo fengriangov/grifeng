@@ -473,8 +473,8 @@
         "word": "eeat",
         "pronunciation": "/iæt/",
         "translation": ["my"],
-        "grifengEx": "Ee",
-        "englishEx": "I say, \"Do you eat dogs?\"",
+        "grifengEx": "Eeat clof crad ar lüd masc",
+        "englishEx": "My dog is a good boy",
         "suffix": "-at",
         "baseWord": "ee"
     },
@@ -482,14 +482,16 @@
         "word": "düfüt",
         "pronunciation": "/dʊfʊt/",
         "translation": ["off", "out"],
-        "grifengEx": "Ee",
-        "englishEx": "I say, \"Do you eat dogs?\""
+        "grifengEx": "Tull düfüt lee!",
+        "englishEx": "Get off me!",
+        "suffix": "-üt",
+        "baseWord": "düf"
     },
     {
         "word": "oya",
         "pronunciation": "/ɔɪʌ/",
         "translation": ["hello"],
-        "grifengEx": "",
+        "grifengEx": "Oya Jerry.",
         "englishEx": "Hello Jerry."
     }
 ]
