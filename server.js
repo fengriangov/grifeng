@@ -4,7 +4,7 @@ const handlebars = require('handlebars');
 const path = require('path');
 const app = express();
 
-const port = 8080;
+const port = 3001;
 
 // Give the pages access to files
 app.use(express.static('public'));
@@ -126,7 +126,7 @@ app.get('/suffixes/:suffix', (req, res) => {
 
 // 404 page
 app.get('/404', (req, res) => {
-    res.status(404).sendFile(path.join(__dirname, "public", "404.html")); // Send the 404.html file
+    res.status(404).sendFile(path.join(__dirname, "/public/404.html")); // Send the 404.html file
 });
 
 // 404 redirect
