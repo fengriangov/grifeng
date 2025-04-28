@@ -387,7 +387,7 @@
         "word": "cradot",
         "pronunciation": "/krædat/",
         "translation": ["are"],
-        "grifengEx": "Tun",
+        "grifengEx": "Tun cradot namaot Bob.",
         "englishEx": "You are named Bob.",
         "suffix": "-ot",
         "baseWord": "crad"
@@ -396,21 +396,21 @@
         "word": "clün",
         "pronunciation": "/clʊn/",
         "translation": ["can"],
-        "grifengEx": "",
+        "grifengEx": "Clun ee suik yef clof?",
         "englishEx": "Can I eat the dog?"
     },
     {
         "word": "dün",
         "pronunciation": "/dʊn/",
         "translation": ["out"],
-        "grifengEx": "Tun cradot",
-        "englishEx": "You are out."
+        "grifengEx": "Tull dün!",
+        "englishEx": "Get out!."
     },
     {
         "word": "masc",
         "pronunciation": "/mæsk/",
         "translation": ["he", "his", "him"],
-        "grifengEx": "",
+        "grifengEx": "Masc clof crad namaot Gerald.",
         "englishEx": "His dog is named Gerald."
     },
     {
