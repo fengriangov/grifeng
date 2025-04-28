@@ -403,7 +403,7 @@
         "word": "dün",
         "pronunciation": "/dʊn/",
         "translation": ["out"],
-        "grifengEx": "Tull dün!",
+        "grifengEx": "Tull düfüt!",
         "englishEx": "Get out!."
     },
     {
@@ -417,29 +417,29 @@
         "word": "alue",
         "pronunciation": "/əlu/",
         "translation": ["but"],
-        "grifengEx": "Ee wrif luf",
+        "grifengEx": "Ee wrif lüf alue ee clün glüf.",
         "englishEx": "I want to but I can not."
     },
     {
         "word": "sune",
         "pronunciation": "/sun/",
         "translation": ["of"],
-        "grifengEx": "",
-        "englishEx": "Of."
+        "grifengEx": "Düfüt sune III clofet, ee suikot II.",
+        "englishEx": "Out of 3 dogs I ate 2."
     },
     {
         "word": "yef",
         "pronunciation": "/jɛf/",
         "translation": ["the"],
-        "grifengEx": "",
+        "grifengEx": "Yef clof crad namaot Gerald.",
         "englishEx": "The dog is named Gerald."
     },
     {
         "word": "leoz",
         "pronunciation": "/liaz/",
         "translation": ["because"],
-        "grifengEx": "Ee oam ar clof",
-        "englishEx": "I am a dog because of the light."
+        "grifengEx": "Tun re griceüt oif ar clof leoz ee suikot ait.",
+        "englishEx": "You do not have a dog because I ate it."
     },
     {
         "word": "tull",
