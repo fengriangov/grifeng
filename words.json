@@ -445,29 +445,29 @@
         "word": "tull",
         "pronunciation": "/tʌl/",
         "translation": ["get"],
-        "grifengEx": "",
+        "grifengEx": "Tull yef clof.",
         "englishEx": "Get the dog."
     },
     {
         "word": "düll",
         "pronunciation": "/dʊl/",
         "translation": ["dark"],
-        "grifengEx": "Ait crad",
-        "englishEx": "It is dark."
+        "grifengEx": "Ait crad düll reme.",
+        "englishEx": "It is dark now."
     },
     {
         "word": "ee",
         "pronunciation": "/i/",
         "translation": ["I"],
-        "grifengEx": "",
+        "grifengEx": "Ee suik KFC.",
         "englishEx": "I eat KFC."
     },
     {
         "word": "vadül",
         "pronunciation": "/vdʊl/",
         "translation": ["say", "tell"],
-        "grifengEx": "Ee",
-        "englishEx": "I say, \"Do you eat dogs?\""
+        "grifengEx": "Ee vadül KFC crad lüd.",
+        "englishEx": "I say KFC is good."
     },
     {
         "word": "eeat",
