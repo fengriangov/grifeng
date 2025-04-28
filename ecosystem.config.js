@@ -1,7 +1,7 @@
 // pm2 configuration file
 module.exports = {
     apps : [{
-        name: "grifeng",
+        name: "fengri-grifeng",
         script: "server.js",
         instances: "max",
         autorestart: true,
