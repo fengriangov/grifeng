@@ -299,7 +299,7 @@
         "word": "lüdüt",
         "pronunciation": "/lʊdʊt/",
         "translation": ["bad"],
-        "grifengEx": "Whop crad vey lüdüt",
+        "grifengEx": "Leo crad vey lüdüt",
         "englishEx": "Leo is very bad.",
         "suffix": "-üt",
         "baseWord": "lüd"
@@ -331,28 +331,28 @@
         "word": "lüd",
         "pronunciation": "/lʊd/",
         "translation": ["good"],
-        "grifengEx": "Tun cradot vey",
-        "englishEx": "You are very good."
+        "grifengEx": "Tun cradot glüf vey lüd",
+        "englishEx": "You are not very good."
     },
     {
         "word": "vark",
         "pronunciation": "/vɚk/",
         "translation": ["has"],
-        "grifengEx": "Jerry",
+        "grifengEx": "Jerry vark ar clof.",
         "englishEx": "Jerry has a dog."
     },
     {
         "word": "gop",
         "pronunciation": "/gap/",
         "translation": ["go"],
-        "grifengEx": "",
-        "englishEx": "Go to the McDonalds."
+        "grifengEx": "Leo wrifet lüf gop lüf McDonalds.",
+        "englishEx": "Leo wants to go to McDonalds."
     },
     {
         "word": "mal",
         "pronunciation": "/mæl/",
         "translation": ["or"],
-        "grifengEx": "Re tun reit pila Minecraft",
+        "grifengEx": "Re tun wrif lüf pila Minecraft mal Roblox?",
         "englishEx": "Do you want to play Minecraft or Roblox?"
     },
     {
