@@ -267,7 +267,7 @@
         "word": "tullot",
         "pronunciation": "/tʌlat/",
         "translation": ["got"],
-        "grifengEx": "Ee",
+        "grifengEx": "Ee tullot yef clof.",
         "englishEx": "I got the dog.",
         "suffix": "-ot",
         "baseWord": "tull"
@@ -276,24 +276,24 @@
         "word": "vair",
         "pronunciation": "/ver/",
         "translation": ["where"],
-        "grifengEx": "",
+        "grifengEx": "Vair crad yef clof?",
         "englishEx": "Where is the dog?"
     },
     {
         "word": "tünat",
         "pronunciation": "/tʊnæt/",
         "translation": ["your"],
-        "grifengEx": "",
+        "grifengEx": "Tünat clof crad namaot Gerald.",
         "englishEx": "Your dog is named Gerald.",
         "suffix": "-at",
-        "baseWord": "tun"
+        "baseWord": "tün"
     },
     {
         "word": "ali",
         "pronunciation": "/æli/",
         "translation": ["be"],
-        "grifengEx": "Ee reit",
-        "englishEx": "I want to be a dog."
+        "grifengEx": "Ee re griceüt wrif lüf ali ar clof.",
+        "englishEx": "I do not want to be a dog."
     },
     {
         "word": "lüdüt",
