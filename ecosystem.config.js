@@ -1,4 +1,3 @@
-// pm2 configuration file
 module.exports = {
     apps : [{
         name: "fengri-grifeng",
