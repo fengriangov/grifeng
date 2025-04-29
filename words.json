@@ -7,13 +7,6 @@
         "englishEx": "I am the same as you."
     },
     {
-        "word": "remeot",
-        "pronunciation": "/rimat/",
-        "translation": ["before"],
-        "grifengEx": "Remeot ee suik eeat clof, ee ol vadul oya lüf eeat ormond.",
-        "englishEx": "Before I eat my dog, I will say hi to my friend."
-    },
-    {
         "word": "remeit",
         "pronunciation": "/rimɪt/",
         "translation": ["after"],
@@ -73,8 +66,8 @@
         "word": "kajülot",
         "pronunciation": "/kiʤʊlat/",
         "translation": ["yesterday"],
-        "grifengEx": "Ee oam yef sama sar tun.",
-        "englishEx": "I am the same as you."
+        "grifengEx": "Kajülot cradot ar lüd kajül.",
+        "englishEx": "Yesterday was a good day."
     },
     {
         "word": "kajülit",
@@ -233,7 +226,7 @@
         "word": "tün",
         "pronunciation": "/tʊn/",
         "translation": ["you"],
-        "grifengEx": "Tün cradot glüf ar clof.",
+        "grifengEx": "Tün cradet glüf ar clof.",
         "englishEx": "You are not a dog."
     },
     {
@@ -247,14 +240,14 @@
         "word": "tay",
         "pronunciation": "/te/",
         "translation": ["they"],
-        "grifengEx": "Tay cradot glüf clofet.",
+        "grifengEx": "Tay cradet glüf clofet.",
         "englishEx": "They are not dogs."
     },
     {
         "word": "vey",
         "pronunciation": "/ve/",
         "translation": ["very"],
-        "grifengEx": "Tun cradot vey lüd.",
+        "grifengEx": "Tun cradet vey lüd.",
         "englishEx": "You are very good."
     },
     {
@@ -314,7 +307,7 @@
         "word": "frip",
         "pronunciation": "/frıp/",
         "translation": ["what"],
-        "grifengEx": "Frip cradot ente pila?",
+        "grifengEx": "Frip cradet ente pila?",
         "englishEx": "What are we playing?"
     },
     {
@@ -400,7 +393,7 @@
         "word": "sar",
         "pronunciation": "/sə/",
         "translation": ["as"],
-        "grifengEx": "Tun cradot sar lüd sar lüdüt.",
+        "grifengEx": "Tun cradet sar lüd sar lüdüt.",
         "englishEx": "You are as good as bad."
     },
     {
@@ -485,7 +478,7 @@
         "word": "lüd",
         "pronunciation": "/lʊd/",
         "translation": ["good"],
-        "grifengEx": "Tun cradot glüf vey lüd",
+        "grifengEx": "Tun cradet glüf vey lüd",
         "englishEx": "You are not very good."
     },
     {
@@ -538,12 +531,12 @@
         "englishEx": "Yes, I want to play Minecraft with you."
     },
     {
-        "word": "cradot",
-        "pronunciation": "/krædat/",
+        "word": "cradet",
+        "pronunciation": "/krædɛt/",
         "translation": ["are"],
-        "grifengEx": "Tun cradot namaot Bob.",
+        "grifengEx": "Tun cradet namaot Bob.",
         "englishEx": "You are named Bob.",
-        "suffix": "-ot",
+        "suffix": "-et",
         "baseWord": "crad"
     },
     {
