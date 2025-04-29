@@ -74,32 +74,32 @@
         "englishEx": "All of my friends have dogs."
     },
     {
-        "word": "gwawite",
-        "pronunciation": "/krɛn/",
+        "word": "gravite",
+        "pronunciation": "/grevɑɪt/",
         "translation": ["down"],
         "grifengEx": "Eeat clof crad gwawite dairüt.",
         "englishEx": "My dog is down here."
     },
     {
-        "word": "gwawiteüt",
-        "pronunciation": "/krɛn/",
+        "word": "graviteüt",
+        "pronunciation": "/grevɑɪtʊt/",
         "translation": ["up"],
         "grifengEx": "Eeat clof crad gwawiteüt dairüt.",
         "englishEx": "My dog is up here."
     },
     {
-        "word": "dwivee",
-        "pronunciation": "/krɛn/",
+        "word": "niksa",
+        "pronunciation": "/nɪɵsʌ/",
         "translation": ["car"],
-        "grifengEx": "Cren sune eeat ormondet oif clofet.",
+        "grifengEx": "Ee oam düf ar niksa.",
         "englishEx": "I am in a car."
     },
     {
         "word": "thurth",
-        "pronunciation": "/krɛn/",
+        "pronunciation": "/ðɚɵ/",
         "translation": ["water"],
-        "grifengEx": "Cren sune eeat ormondet oif clofet.",
-        "englishEx": "All of my friends have dogs."
+        "grifengEx": "Ee ned thurth reme.",
+        "englishEx": "I need water now."
     },
     {
         "word": "flütz",
