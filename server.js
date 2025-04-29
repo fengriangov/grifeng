@@ -6,7 +6,7 @@ const app = express();
 
 const port = 3001;
 
-// Give the pages access to files
+// Give the templates access to files
 app.use(express.static('public'));
 
 // Compile the pages at server startup
