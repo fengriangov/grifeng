@@ -11,7 +11,9 @@
         "pronunciation": "/rimɪt/",
         "translation": ["after"],
         "grifengEx": "Remeit ee suik eeat clof, ee ol vadul oya lüf eeat ormond.",
-        "englishEx": "After I eat my dog, I will say hi to my friend."
+        "englishEx": "After I eat my dog, I will say hi to my friend.",
+        "suffix": "-it",
+        "baseWord": "reme"
     },
     {
         "word": "flütz",
@@ -60,28 +62,36 @@
         "pronunciation": "/kiʤʊlʊt/",
         "translation": ["night"],
         "grifengEx": "Diz kajülüt ee ol suik ar clof.",
-        "englishEx": "This night I will eat a dog."
+        "englishEx": "This night I will eat a dog.",
+        "suffix": "-üt",
+        "baseWord": "kajül"
     },
     {
         "word": "kajülot",
         "pronunciation": "/kiʤʊlat/",
         "translation": ["yesterday"],
         "grifengEx": "Kajülot cradot ar lüd kajül.",
-        "englishEx": "Yesterday was a good day."
+        "englishEx": "Yesterday was a good day.",
+        "suffix": "-ot",
+        "baseWord": "kajül"
     },
     {
         "word": "cradot",
         "pronunciation": "/krædat/",
         "translation": ["was"],
         "grifengEx": "Kajülot cradot ar lüd kajül.",
-        "englishEx": "Yesterday was a good day."
+        "englishEx": "Yesterday was a good day.",
+        "suffix": "-ot",
+        "baseWord": "crad"
     },
     {
         "word": "kajülit",
         "pronunciation": "/kiʤʊlɪt/",
         "translation": ["tomorrow"],
         "grifengEx": "Kajülit ee ol suik ar clof.",
-        "englishEx": "Tomorrow I will eat a dog."
+        "englishEx": "Tomorrow I will eat a dog.",
+        "suffix": "-it",
+        "baseWord": "kajül"
     },
     {
         "word": "goper",
@@ -95,7 +105,9 @@
         "pronunciation": "/gapɪt/",
         "translation": ["went"],
         "grifengEx": "Ee gopot lüf suik ar clof.",
-        "englishEx": "I went to eat a dog."
+        "englishEx": "I went to eat a dog.",
+        "suffix": "-ot",
+        "baseWord": "gop"
     },
     {
         "word": "gri",
@@ -144,21 +156,27 @@
         "pronunciation": "/fɛŋɛt/",
         "translation": ["teeth"],
         "grifengEx": "Gri fenget cradot vey lüd.",
-        "englishEx": "Green teeth are very good."
+        "englishEx": "Green teeth are very good.",
+        "suffix": "-et",
+        "baseWord": "feng"
     },
     {
         "word": "enteat",
         "pronunciation": "/ɛnteæt/",
         "translation": ["our"],
         "grifengEx": "Ait crad vey lüd enteat fenget cradet vey gri.",
-        "englishEx": "It is very good our teeth are very green."
+        "englishEx": "It is very good our teeth are very green.",
+        "suffix": "-at",
+        "baseWord": "ente"
     },
     {
         "word": "olot",
         "pronunciation": "/alat/",
         "translation": ["would"],
         "grifengEx": "Ee olot oif ar clof eelin masc reot glüf suik ait.",
-        "englishEx": "I would have a dog if he didn't eat it."
+        "englishEx": "I would have a dog if he didn't eat it.",
+        "suffix": "-ot",
+        "baseWord": "ol"
     },
     {
         "word": "re",
