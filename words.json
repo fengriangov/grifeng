@@ -16,6 +16,36 @@
         "baseWord": "reme"
     },
     {
+        "word": "havoos",
+        "pronunciation": "/hʌvuz/",
+        "translation": ["house"],
+        "grifengEx": "Ee re griceüt oif ar havoos.",
+        "englishEx": "I do not have a house."
+    },
+    {
+        "word": "syow",
+        "pronunciation": "/sjo/",
+        "translation": ["small"],
+        "grifengEx": "Eeat clof crad syow.",
+        "englishEx": "My dog is small."
+    },
+    {
+        "word": "syowüt",
+        "pronunciation": "/sjoʊt/",
+        "translation": ["big"],
+        "grifengEx": "Eeat clof crad syowüt.",
+        "englishEx": "My dog is big.",
+        "suffix": "-üt",
+        "baseWord": "syow"
+    },
+    {
+        "word": "soi",
+        "pronunciation": "/sɔɪ/",
+        "translation": ["so"],
+        "grifengEx": "Soi ee gopot lüf lee ormondat havoos kajülot wongway? Luce tiven ee suikot masc clof leoz ee cernee lüf suik clofet.",
+        "englishEx": "So I went to my friend's house yesterday right? And then I ate his dog because I like to eat dogs."
+    }
+    {
         "word": "flütz",
         "pronunciation": "/flʊts/",
         "translation": ["word"],
