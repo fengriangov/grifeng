@@ -44,35 +44,63 @@
         "translation": ["so"],
         "grifengEx": "Soi ee gopot lüf lee ormondat havoos kajülot wongway? Luce tiven ee suikot masc clof leoz ee cernee lüf suik clofet.",
         "englishEx": "So I went to my friend's house yesterday right? And then I ate his dog because I like to eat dogs."
-    }
+    },
     {
         "word": "fura",
         "pronunciation": "/furʌ/",
         "translation": ["for"],
         "grifengEx": "Ee gopot fura yef clof, glüf yef havoos.",
         "englishEx": "I went for the dog, not the house."
-    }
+    },
     {
         "word": "shod",
         "pronunciation": "/ʃad/",
         "translation": ["by"],
         "grifengEx": "Ee gopot shod eeat ormondat havoos kajülot.",
         "englishEx": "I went by my friend's house yesterday."
-    }
+    },
     {
         "word": "shaj",
         "pronunciation": "/ʃæʤ/",
         "translation": ["from"],
         "grifengEx": "Ee gopot shaj eeat ormondat havoos lüf eeat havoos.",
         "englishEx": "I went from my friend's house to my house."
-    }
+    },
     {
         "word": "cren",
         "pronunciation": "/krɛn/",
         "translation": ["all"],
         "grifengEx": "Cren sune eeat ormondet oif clofet.",
         "englishEx": "All of my friends have dogs."
-    }
+    },
+    {
+        "word": "gwawite",
+        "pronunciation": "/krɛn/",
+        "translation": ["down"],
+        "grifengEx": "Eeat clof crad gwawite dairüt.",
+        "englishEx": "My dog is down here."
+    },
+    {
+        "word": "gwawiteüt",
+        "pronunciation": "/krɛn/",
+        "translation": ["up"],
+        "grifengEx": "Eeat clof crad gwawiteüt dairüt.",
+        "englishEx": "My dog is up here."
+    },
+    {
+        "word": "dwivee",
+        "pronunciation": "/krɛn/",
+        "translation": ["car"],
+        "grifengEx": "Cren sune eeat ormondet oif clofet.",
+        "englishEx": "I am in a car."
+    },
+    {
+        "word": "thurth",
+        "pronunciation": "/krɛn/",
+        "translation": ["water"],
+        "grifengEx": "Cren sune eeat ormondet oif clofet.",
+        "englishEx": "All of my friends have dogs."
+    },
     {
         "word": "flütz",
         "pronunciation": "/flʊts/",
