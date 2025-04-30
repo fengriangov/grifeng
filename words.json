@@ -102,6 +102,34 @@
         "englishEx": "I need water now."
     },
     {
+        "word": "dülüf",
+        "pronunciation": "/dʊlʊf/",
+        "translation": ["into"],
+        "grifengEx": "Ee gopot dülüf eeat ormondat havoos.",
+        "englishEx": "I went into my friend's house."
+    },
+    {
+        "word": "tiven",
+        "pronunciation": "/tɪvɛn/",
+        "translation": ["then"],
+        "grifengEx": "Luce tiven ee ol gop lüf eeat ormondat havoos.",
+        "englishEx": "And then I will go to my friend's house."
+    },
+    {
+        "word": "cernee",
+        "pronunciation": "/kɚni/",
+        "translation": ["like"],
+        "grifengEx": "Ee cernee tunat havoos.",
+        "englishEx": "I like your house."
+    },
+    {
+        "word": "cerneeüt",
+        "pronunciation": "/kɚniʊt/",
+        "translation": ["hate"],
+        "grifengEx": "Ee cerneeüt tunat havoos.",
+        "englishEx": "I hate your house."
+    },
+    {
         "word": "flütz",
         "pronunciation": "/flʊts/",
         "translation": ["word"],
