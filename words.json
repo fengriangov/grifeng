@@ -127,7 +127,42 @@
         "pronunciation": "/kɚniʊt/",
         "translation": ["hate"],
         "grifengEx": "Ee cerneeüt tunat havoos.",
-        "englishEx": "I hate your house."
+        "englishEx": "I hate your house.",
+        "suffix": "-üt",
+        "baseWord": "cernee"   
+    },
+    {
+        "word": "dair",
+        "pronunciation": "/dɛ/",
+        "translation": ["there"],
+        "grifengEx": "Eeat havoos crad dair.",
+        "englishEx": "My house is there."
+    },
+    {
+        "word": "dairüt",
+        "pronunciation": "/dɛʊt/",
+        "translation": ["here"],
+        "grifengEx": "Eeat clof crad glüf dairüt.",
+        "englishEx": "My dog is not here.",
+        "suffix": "-üt",
+        "baseWord": "dair"
+    },
+    {
+        "word": "chün",
+        "pronunciation": "/ʧʊn/",
+        "translation": ["person"],
+        "grifengEx": "Dair crad I chün dair.",
+        "englishEx": "There is one person there."
+    },
+    {
+        "word": "chünet",
+        "pronunciation": "/ʧʊnɛt/",
+        "translation": ["people"],
+        "grifengEx": "Dair cradet III chünet dair.",
+        "englishEx": "There are three people there.",
+        "suffix": "-et",
+        "baseWord": "chün"
+
     },
     {
         "word": "flütz",
