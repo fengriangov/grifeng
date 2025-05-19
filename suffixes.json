@@ -2,14 +2,14 @@
     {
         "suffix": "-at",
         "description": "Shows that the word is possessive",
-        "grifengEx": "clof - clofat",
-        "englishEx": "dog - dog's"
+        "grifengEx": "Jasper - Jasperat",
+        "englishEx": "Jasper - Jasper's"
     },
     {
         "suffix": "-et",
         "description": "Shows that the word is plural",
-        "grifengEx": "clof - clofet",
-        "englishEx": "dog - dogs"
+        "grifengEx": "havoos - havooset",
+        "englishEx": "house - houses"
     },
     {
         "suffix": "-it",
