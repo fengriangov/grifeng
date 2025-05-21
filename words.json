@@ -10,7 +10,7 @@
         "word": "remeit",
         "pronunciation": "/rimɪt/",
         "translation": ["after"],
-        "grifengEx": "Remeit ee suik eeat clof, ee ol vadul oya lüf eeat ormond.",
+        "grifengEx": "Remeit ee suik eeat flaich, ee ol vadul oya lüf eeat ormond.",
         "englishEx": "After I eat my food, I will say hi to my friend.",
         "suffix": "-it",
         "baseWord": "reme"
@@ -42,14 +42,14 @@
         "word": "soi",
         "pronunciation": "/sɔɪ/",
         "translation": ["so"],
-        "grifengEx": "Soi ee gopot lüf lee ormondat havoos kajülot wongway? Luce tiven ee suikot masc clof leoz ee cernee lüf suik clof.",
+        "grifengEx": "Soi ee gopot lüf lee ormondat havoos kajülot wongway? Luce tiven ee suikot masc flaich leoz ee cernee lüf suik flaich.",
         "englishEx": "So I went to my friend's house yesterday right? And then I ate his food because I like to eat food."
     },
     {
         "word": "fura",
         "pronunciation": "/furʌ/",
         "translation": ["for"],
-        "grifengEx": "Ee gopot fura yef clof.",
+        "grifengEx": "Ee gopot fura yef flaich.",
         "englishEx": "I went for the food."
     },
     {
@@ -70,7 +70,7 @@
         "word": "cren",
         "pronunciation": "/krɛn/",
         "translation": ["all"],
-        "grifengEx": "Cren sune eeat ormondet oif clof.",
+        "grifengEx": "Cren sune eeat ormondet oif flaich.",
         "englishEx": "All of my friends have food."
     },
     {
@@ -143,7 +143,7 @@
         "pronunciation": "/dɛʊt/",
         "translation": ["here"],
         "grifengEx": "Eeat clof crad glüf dairüt.",
-        "englishEx": "My food is not here.",
+        "englishEx": "My dog is not here.",
         "suffix": "-üt",
         "baseWord": "dair"
     },
@@ -168,7 +168,7 @@
         "pronunciation": "/flʊts/",
         "translation": ["word"],
         "grifengEx": "\"Clof\" crad ar flütz.",
-        "englishEx": "\"Food\" is a word."
+        "englishEx": "\"Dog\" is a word."
     },
     {
         "word": "kajs",
@@ -195,22 +195,22 @@
         "word": "mü",
         "pronunciation": "/mʊ/",
         "translation": ["month"],
-        "grifengEx": "I mü lüce ee clün suik clof.",
+        "grifengEx": "I mü lüce ee clün suik flaich.",
         "englishEx": "One month and I can eat food."
     },
     {
         "word": "kajül",
         "pronunciation": "/kiʤʊl/",
         "translation": ["day"],
-        "grifengEx": "I kajül lüce ee clün suik clof.",
-        "englishEx": "One day and I can eat food."
+        "grifengEx": "I kajül lüce tiven ee clün suik flaich.",
+        "englishEx": "One day and then I can eat food."
     },
     {
         "word": "kajülüt",
         "pronunciation": "/kiʤʊlʊt/",
         "translation": ["night"],
-        "grifengEx": "Diz kajülüt ee ol suik clof.",
-        "englishEx": "This night I will eat food.",
+        "grifengEx": "Lüf kajülüt ee ol suik yef flaich.",
+        "englishEx": "Tonight I will eat the food.",
         "suffix": "-üt",
         "baseWord": "kajül"
     },
@@ -236,8 +236,8 @@
         "word": "kajülit",
         "pronunciation": "/kiʤʊlɪt/",
         "translation": ["tomorrow"],
-        "grifengEx": "Kajülit ee ol suik clof.",
-        "englishEx": "Tomorrow I will eat food.",
+        "grifengEx": "Kajülit ee ol suik yef flaich.",
+        "englishEx": "Tomorrow I will eat the food.",
         "suffix": "-it",
         "baseWord": "kajül"
     },
@@ -245,15 +245,15 @@
         "word": "goper",
         "pronunciation": "/gapʌ/",
         "translation": ["goes"],
-        "grifengEx": "Masc goper lüf suik clof.",
-        "englishEx": "He goes to eat food."
+        "grifengEx": "Masc goper lüf suik yef flaich.",
+        "englishEx": "He goes to eat the food."
     },
     {
         "word": "gopot",
         "pronunciation": "/gapɪt/",
         "translation": ["went"],
-        "grifengEx": "Ee gopot lüf suik clof.",
-        "englishEx": "I went to eat food.",
+        "grifengEx": "Ee gopot lüf suik yef flaich.",
+        "englishEx": "I went to eat the food.",
         "suffix": "-ot",
         "baseWord": "gop"
     },
@@ -321,8 +321,8 @@
         "word": "olot",
         "pronunciation": "/alat/",
         "translation": ["would"],
-        "grifengEx": "Ee olot oif clof eelin masc reot glüf suik ait.",
-        "englishEx": "I would have food if he didn't eat it.",
+        "grifengEx": "Ee olot oif yef flaich eelin masc reot glüf suik ait.",
+        "englishEx": "I would have the food if he didn't eat it.",
         "suffix": "-ot",
         "baseWord": "ol"
     },
@@ -343,23 +343,30 @@
     {
         "word": "clof",
         "pronunciation": "/klaf/",
+        "translation": ["dog"],
+        "grifengEx": "EeFixed e oam ar clof.",
+        "englishEx": "I am a dog."
+    },
+    {
+        "word": "flaich",
+        "pronunciation": "/fleʧ/",
         "translation": ["food"],
-        "grifengEx": "Ee suikot eeat clof.",
-        "englishEx": "I ate my food."
+        "grifengEx": "Ee suikot yef flaich.",
+        "englishEx": "I ate the food."
     },
     {
         "word": "ar",
         "pronunciation": "/ʌ/",
         "translation": ["a"],
-        "grifengEx": "Ee suikot clof.",
-        "englishEx": "I ate food."
+        "grifengEx": "Ee suikot yef flaich.",
+        "englishEx": "I ate the food."
     },
     {
         "word": "oif",
         "pronunciation": "/ɔɪf/",
         "translation": ["have"],
-        "grifengEx": "Re tun oif clof?",
-        "englishEx": "Do you have food?"
+        "grifengEx": "Re tun oif yef flaich?",
+        "englishEx": "Do you have the food?"
     },
     {
         "word": "nama",
@@ -372,8 +379,8 @@
         "word": "oifot",
         "pronunciation": "/ɔɪfat/",
         "translation": ["had"],
-        "grifengEx": "Jasper oifot clof.",
-        "englishEx": "Jasper had food.",
+        "grifengEx": "Jasper oif yef flaich.",
+        "englishEx": "Jasper has the food.",
         "suffix": "-ot",
         "baseWord": "oif"
     },
@@ -450,8 +457,8 @@
         "word": "eelin",
         "pronunciation": "/ilɪn/",
         "translation": ["if"],
-        "grifengEx": "Ee olot oif clof eelin masc reot glüf suik ait.",
-        "englishEx": "I would have food if he didn't eat it."
+        "grifengEx": "Ee olot oif yef flaich eelin masc reot glüf suik ait.",
+        "englishEx": "I would have the food if he didn't eat it."
     },
     {
         "word": "ait",
@@ -503,22 +510,22 @@
         "word": "lüf",
         "pronunciation": "/lʊf/",
         "translation": ["to", "too"],
-        "grifengEx": "Ee wrif lüf suik clof.",
-        "englishEx": "I want to eat food."
+        "grifengEx": "Ee wrif lüf suik yef flaich.",
+        "englishEx": "I want to eat the food."
     },
     {
         "word": "crad",
         "pronunciation": "/kræd/",
         "translation": ["is"],
-        "grifengEx": "Yef clofat nama crad Jeff.",
-        "englishEx": "The food's name is Jeff."
+        "grifengEx": "Yef flaich crad vey lud.",
+        "englishEx": "The food is very good."
     },
     {
         "word": "fem",
         "pronunciation": "/fɛm/",
         "translation": ["she", "her"],
-        "grifengEx": "Fem clof crad lüd.",
-        "englishEx": "Her food is good."
+        "grifengEx": "Fem clof crad ar lüd masc.",
+        "englishEx": "Her dog is a good boy."
     },
     {
         "word": "pila",
@@ -531,8 +538,8 @@
         "word": "priz",
         "pronunciation": "/prız/",
         "translation": ["please"],
-        "grifengEx": "Priz, clün tün tull yef clof?",
-        "englishEx": "Please, can you get the food?"
+        "grifengEx": "Clün tün tull yef clof, priz?",
+        "englishEx": "Can you get the food, please?"
     },
     {
         "word": "suik",
@@ -546,7 +553,7 @@
         "pronunciation": "/mʊnʌ/",
         "translation": ["many"],
         "grifengEx": "Ee oif muna clofet.",
-        "englishEx": "I have many foods."
+        "englishEx": "I have many dogs."
     },
     {
         "word": "ente",
@@ -573,21 +580,21 @@
         "word": "remeot",
         "pronunciation": "/rimat/",
         "translation": ["before"],
-        "grifengEx": "Remeot ee suik eeat clof, ee ol vadul oya lüf eeat ormond.",
+        "grifengEx": "Remeot ee suik eeat flaich, ee ol vadul oya lüf eeat ormond.",
         "englishEx": "Before I eat my food, I will say hi to my friend."
     },
     {
         "word": "glüf",
         "pronunciation": "/glʊf/",
         "translation": ["not"],
-        "grifengEx": "Ee oam glüf clof.",
-        "englishEx": "I am not food."
+        "grifengEx": "Ee oam glüf ar clof.",
+        "englishEx": "I am not a dog."
     },
     {
         "word": "tullot",
         "pronunciation": "/tʌlat/",
         "translation": ["got"],
-        "grifengEx": "Ee tullot yef clof.",
+        "grifengEx": "Ee tullot yef flaich.",
         "englishEx": "I got the food.",
         "suffix": "-ot",
         "baseWord": "tull"
@@ -596,15 +603,15 @@
         "word": "vair",
         "pronunciation": "/ver/",
         "translation": ["where"],
-        "grifengEx": "Vair crad yef clof?",
+        "grifengEx": "Vair crad yef flaich?",
         "englishEx": "Where is the food?"
     },
     {
         "word": "tünat",
         "pronunciation": "/tʊnæt/",
         "translation": ["your"],
-        "grifengEx": "Tünat clof crad lüd.",
-        "englishEx": "Your food is good.",
+        "grifengEx": "Tünat clof crad ar lüd masc.",
+        "englishEx": "Your dog is a good boy.",
         "suffix": "-at",
         "baseWord": "tün"
     },
@@ -628,15 +635,15 @@
         "word": "faldo",
         "pronunciation": "/fɑldo/",
         "translation": ["only"],
-        "grifengEx": "Faldo dizüt crad clof.",
-        "englishEx": "Only that is food."
+        "grifengEx": "Dizüt crad yef faldo flaich.",
+        "englishEx": "That is the only food."
     },
     {
         "word": "oam",
         "pronunciation": "/om/",
         "translation": ["am"],
-        "grifengEx": "Ee oam griceüt clof.",
-        "englishEx": "I am not food."
+        "grifengEx": "Ee oam griceüt ar clof.",
+        "englishEx": "I am not a dog."
     },
     {
         "word": "düllüt",
@@ -658,7 +665,7 @@
         "word": "vark",
         "pronunciation": "/vɚk/",
         "translation": ["has"],
-        "grifengEx": "Jerry vark clof.",
+        "grifengEx": "Jerry vark flaich.",
         "englishEx": "Jerry has food."
     },
     {
@@ -716,7 +723,7 @@
         "word": "clün",
         "pronunciation": "/clʊn/",
         "translation": ["can"],
-        "grifengEx": "Clun ee suik yef clof?",
+        "grifengEx": "Clun ee suik yef flaich?",
         "englishEx": "Can I eat the food?"
     },
     {
@@ -730,8 +737,8 @@
         "word": "masc",
         "pronunciation": "/mæsk/",
         "translation": ["he", "his", "him"],
-        "grifengEx": "Masc clof crad lüd.",
-        "englishEx": "His food is good."
+        "grifengEx": "Masc clof crad ar lüd masc.",
+        "englishEx": "His dog is a good boy."
     },
     {
         "word": "alue",
@@ -744,28 +751,28 @@
         "word": "sune",
         "pronunciation": "/sun/",
         "translation": ["of"],
-        "grifengEx": "Düfüt sune III clof, ee suikot II.",
-        "englishEx": "Out of 3 food I ate 2."
+        "grifengEx": "Düfüt sune III flaichet, ee suikot II.",
+        "englishEx": "Out of 3 foods, I ate 2."
     },
     {
         "word": "yef",
         "pronunciation": "/jɛf/",
         "translation": ["the"],
-        "grifengEx": "Yef clof crad lüd.",
-        "englishEx": "The food is good."
+        "grifengEx": "Yef clof crad ar lüd masc.",
+        "englishEx": "The dog is a good boy."
     },
     {
         "word": "leoz",
         "pronunciation": "/liaz/",
         "translation": ["because"],
-        "grifengEx": "Tun re griceüt oif clof leoz ee suikot ait.",
+        "grifengEx": "Tun re griceüt oif flaich leoz ee suikot ait.",
         "englishEx": "You do not have food because I ate it."
     },
     {
         "word": "tull",
         "pronunciation": "/tʌl/",
         "translation": ["get"],
-        "grifengEx": "Tull yef clof.",
+        "grifengEx": "Tull yef flaich.",
         "englishEx": "Get the food."
     },
     {
@@ -793,8 +800,8 @@
         "word": "eeat",
         "pronunciation": "/iæt/",
         "translation": ["my"],
-        "grifengEx": "Eeat clof crad lüd.",
-        "englishEx": "My food is good.",
+        "grifengEx": "Eeat clof crad ar lüd masc.",
+        "englishEx": "My dog is a good boy.",
         "suffix": "-at",
         "baseWord": "ee"
     },
